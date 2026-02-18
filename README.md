@@ -161,44 +161,48 @@ core_focus:
 
 
 
-<img src="./assets/bmw.png" height="50"/> &nbsp;&nbsp; **Senior DevOps Engineer** &nbsp;|&nbsp; `Mar 2025 – Present`
+### 🏢 BMW Techworks, Chennai
+**Senior DevOps Engineer** &nbsp;|&nbsp; `Mar 2025 – Present`
 
-GitOps with ArgoCD for **9+ microservices** across multiple Kubernetes environments
-AKS cluster provisioning via Terraform with Azure Blob remote state management
-Full observability stack: **Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Blackbox Exporter**
-Secured workloads with **OAuth2-Proxy, Azure Key Vault, External Secrets Operator, Istio & RBAC**
-Cert-Manager with automated 365-day certificate renewal & 15-day pre-expiry rotation
-Kubernetes sidecar to auto-discover PostgreSQL DBs & dynamically provision Grafana datasources
-Azure AD token refresher updating Kubernetes Secrets every 45 mins — **zero-downtime 24/7 monitoring**
+- GitOps with ArgoCD for **9+ microservices** across multiple Kubernetes environments
+- AKS cluster provisioning via Terraform with Azure Blob remote state management
+- Full observability stack: **Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Blackbox Exporter**
+- Secured workloads with **OAuth2-Proxy, Azure Key Vault, External Secrets Operator, Istio & RBAC**
+- Cert-Manager with automated 365-day certificate renewal & 15-day pre-expiry rotation
+- Kubernetes sidecar to auto-discover PostgreSQL DBs & dynamically provision Grafana datasources
+- Azure AD token refresher updating Kubernetes Secrets every 45 mins — **zero-downtime 24/7 monitoring**
 
-<br/>
+---
 
-<img src="./assets/hexaware.png" height="50"/> &nbsp;&nbsp; **Sr. Technical Analyst** &nbsp;|&nbsp; `Oct 2023 – Oct 2024`
+### 🏢 Hexaware Technologies, Chennai
+**Sr. Technical Analyst** &nbsp;|&nbsp; `Oct 2023 – Oct 2024`
 
-Managed and optimised **AKS clusters** for containerised application orchestration
-Led migration of **Java & Spring Boot** apps from on-premises to OpenShift
-Implemented **GitOps with ArgoCD** for seamless rollouts and rollbacks
-Managed **Azure DevOps pipelines** for CI/CD automation
-Applied **TDD methodologies** — achieved 30% decrease in post-deployment issues
-Implemented **Velero** for backup, restore, and disaster recovery
+- Managed and optimised **AKS clusters** for containerised application orchestration
+- Led migration of **Java & Spring Boot** apps from on-premises to OpenShift
+- Implemented **GitOps with ArgoCD** for seamless rollouts and rollbacks
+- Managed **Azure DevOps pipelines** for CI/CD automation
+- Applied **TDD methodologies** — achieved 30% decrease in post-deployment issues
+- Implemented **Velero** for backup, restore, and disaster recovery
 
-<br/>
+---
 
-<img src="./assets/cognizant.png" height="50"/> &nbsp;&nbsp; **Technical Lead** &nbsp;|&nbsp; `Dec 2019 – Oct 2023`
+### 🏢 Cognizant Technology Solutions, Chennai
+**Technical Lead** &nbsp;|&nbsp; `Dec 2019 – Oct 2023`
 
-Designed **CI/CD pipelines** for microservices on AWS EKS
-Managed **AWS services**: EC2, ASG, IAM, S3, EBS, ELB, CloudWatch, CloudTrail
-Automated patch management via **Ansible playbooks** across environments
-Jenkins automation with Golang Jenkinsfiles for pipeline efficiency
-Managed **Docker** containerisation and Kubernetes orchestration
+- Designed **CI/CD pipelines** for microservices on AWS EKS
+- Managed **AWS services**: EC2, ASG, IAM, S3, EBS, ELB, CloudWatch, CloudTrail
+- Automated patch management via **Ansible playbooks** across environments
+- Jenkins automation with Golang Jenkinsfiles for pipeline efficiency
+- Managed **Docker** containerisation and Kubernetes orchestration
 
-<br/>
+---
 
-<img src="./assets/act.png" height="50"/> &nbsp;&nbsp; **Network Engineer** &nbsp;|&nbsp; `Oct 2017 – Feb 2019`
+### 🏢 Atria Convergence Technologies, Chennai
+**Network Engineer** &nbsp;|&nbsp; `Oct 2017 – Feb 2019`
 
-Managed computer networks: routing, switching, firewalls
-Monitored performance, coordinated upgrades, remote support
-Ensured minimal downtime across all network operations
+- Managed computer networks: routing, switching, firewalls
+- Monitored performance, coordinated upgrades, remote support
+- Ensured minimal downtime across all network operations
 
 
 <br/>
