@@ -1,96 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1c3a5e,100:0d1117&height=210&section=header&text=Ajith%20Kumar%20Balasubramanian&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20GenAI%20%26%20MLOps%20%7C%20SRE&descAlignY=60&descSize=15&descColor=7eb8f7" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&duration=3000&pause=1000&color=7EB8F7&center=true&vCenter=true&width=750&height=45&lines=Kubernetes+%26+GitOps+Specialist+(CKA);AI-Powered+Infrastructure+Automation;Multi-Cloud+Platform+Engineering+(AWS+%7C+Azure+%7C+GCP);SRE+%7C+Zero-Downtime+Deployments+%7C+Observability" alt="Typing SVG" />
-</div>
+<!-- HEADER — uses only readme-typing-svg (reliable) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=1&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=80&lines=Ajith+Kumar+Balasubramanian" alt="Name"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=17&duration=3500&pause=1000&color=7EB8F7&center=true&vCenter=true&width=860&height=40&lines=Senior+DevOps+%26+Platform+Engineer+%7C+BMW+TechWorks;GenAI+%26+MLOps+%7C+RAG+Pipelines+%7C+LLM+Agents;Kubernetes+(CKA)+%7C+GitOps+%7C+Multi-Cloud+(AWS+%7C+Azure+%7C+GCP);SRE+%7C+Zero-Downtime+Infrastructure+%7C+Observability" alt="Roles"/>
 
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak12061995/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajithkumarren@gmail.com)
-&nbsp;&nbsp;
-![CKA](https://img.shields.io/badge/✅_CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/✅_AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+&nbsp;
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
-<br/>
-
 ---
 
-## 👤 About Me
+## 🤖 GenAI & MLOps — What I'm Building at BMW TechWorks
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-I'm a **Senior DevOps & Platform Engineer** with **5+ years** of experience building and operating production-grade cloud-native infrastructure. Currently at **BMW TechWorks, Chennai**, I architect GenAI-powered platform automation, operate multi-cluster Kubernetes environments, and drive GitOps workflows serving **200+ engineering teams**.
-
-My work sits at the intersection of **Platform Engineering, SRE, and Generative AI** — building intelligent systems that automate infrastructure operations at enterprise scale.
-
-🏢 &nbsp;**BMW TechWorks, Chennai** — Senior DevOps Engineer *(2025 – Present)*  
-🤖 &nbsp;Built production **RAG pipelines + LLM agents** for platform automation  
-☸️ &nbsp;**CKA** certified · Operating AKS multi-cluster (DEV/INT/PROD) with ArgoCD  
-☁️ &nbsp;Multi-cloud: **AWS · Azure · GCP** across 5+ years enterprise delivery  
-📧 &nbsp;[ajithkumarren@gmail.com](mailto:ajithkumarren@gmail.com)
-
-<br clear="right"/>
-
----
-
-## 🚀 What I'm Building at BMW TechWorks
+> Currently building **production-grade AI-powered platform automation** at BMW Group, serving 200+ engineering teams.
 
 ```yaml
-role       : Senior DevOps / Platform Engineer
-company    : BMW TechWorks, Chennai
-since      : 2025
-
-current_focus:
-  genai_mlops:
-    - Production RAG pipeline (LangGraph + Claude/GPT-4 + Azure AI Search)
-    - Hybrid search: vector + BM25 + semantic reranking across 435+ docs
-    - LLM-as-a-Judge evaluation framework with CI/CD quality gates (≥85% accuracy)
-    - Natural-language CRUD: 8 tool-calling endpoints for infra provisioning
-
-  platform_engineering:
-    - AKS multi-cluster GitOps (ArgoCD app-of-apps) — 9+ microservices
-    - Zero-downtime upgrades across 15+ platform components
-    - External Secrets Operator + Azure Key Vault — zero-secrets-in-code
-    - Full observability: Prometheus · Grafana · Loki · Tempo · OpenTelemetry
-
-  sre:
-    - Kubernetes sidecar for Azure AD token lifecycle (45-min auto-refresh)
-    - 10+ PostgreSQL DBs · 14+ validated rotations · zero auth failures
-    - SLI/SLO monitoring · Cert-Manager 365-day auto-renewal
-
-  iac:
-    - Terraform: AKS, ACR, Key Vault, PostgreSQL, VNETs, Event Hubs
-    - GitHub Actions lifecycle automation: 45+ Azure resource types
-    - GitOps compliance: plan-before-apply · DEV→INT→PROD promotion
+genai_platform:
+  agent_stack      : LangGraph + Claude / GPT-4 + Azure AI Search
+  search_type      : Hybrid (vector + BM25 + semantic reranking)
+  pipeline         : Document ingestion → chunking → 3072-dim embeddings
+                     → vector indexing → inference API → SSE streaming
+  scale            : 435+ documents · incremental indexing · real-time responses
+  quality_gates    : LLM-as-a-Judge · CI/CD blocks at <85% accuracy threshold
+  infra_automation : 8 tool-calling endpoints · natural-language CRUD
+                     (Azure Container Apps · environments · projects)
+  impact           : 80% reduction in documentation lookup time
 ```
 
----
-
-## 🛠️ Tech Stack
-
-**☁️ Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-**🤖 AI / ML & GenAI**
+<div align="center">
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-FF6B6B?style=flat-square&logo=elasticsearch&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0EA5E9?style=flat-square&logo=python&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM--as--a--Judge-0EA5E9?style=flat-square&logo=python&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-6D28D9?style=flat-square&logo=python&logoColor=white)
+![SSE Streaming](https://img.shields.io/badge/SSE_Streaming-10B981?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 👤 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+
+**Senior DevOps & Platform Engineer** with **5+ years** delivering enterprise-grade cloud-native infrastructure. Currently at **BMW TechWorks, Chennai** — architecting GenAI platform automation, operating multi-cluster Kubernetes at scale, and building self-healing SRE systems.
+
+🏢 &nbsp;**BMW TechWorks** — Senior DevOps Engineer *(2025 – Present)*  
+🤖 &nbsp;Production **RAG agent** + **LLM pipelines** for 200+ engineers  
+☸️ &nbsp;**CKA** · AKS multi-cluster (DEV/INT/PROD) · ArgoCD GitOps  
+☁️ &nbsp;**AWS · Azure · GCP** — 5+ years multi-cloud delivery  
+📧 &nbsp;[ajithkumarren@gmail.com](mailto:ajithkumarren@gmail.com)
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Full Tech Stack
+
+**☁️ Cloud & IaC**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 **🐳 Containers & Orchestration**
 
@@ -130,43 +113,30 @@ current_focus:
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL_(Terraform)-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Experience
 
-```
-2025 – Present  │  BMW TechWorks, Chennai
-                │  Senior DevOps Engineer
-                │  GenAI Agent · RAG Pipelines · AKS · ArgoCD GitOps · Terraform · SRE
-                │
-2023 – 2024     │  Hexaware Technologies, Chennai  (Client: AirIndia)
-                │  Sr. Technical Analyst
-                │  AKS · OpenShift Migration · ArgoCD · Azure DevOps · Velero · TDD
-                │
-2019 – 2023     │  Cognizant Technology Solutions, Chennai  (Client: Expedia Group)
-                │  Technical Lead
-                │  AWS EKS · Terraform · Jenkins · GCP (Cloud Run · Spanner · Pub/Sub)
-                │
-2017 – 2019     │  Atria Convergence Technologies, Chennai
-                │  Network Engineer
-                │  Routing · Switching · Firewalls · Network Operations
-```
+| Period | Role | Company | Highlights |
+|--------|------|---------|------------|
+| 2025 – Present | Senior DevOps Engineer | **BMW TechWorks** | GenAI Agent · RAG · AKS · ArgoCD · Terraform · SRE |
+| 2023 – 2024 | Sr. Technical Analyst | **Hexaware** *(AirIndia)* | AKS · OpenShift · Azure DevOps · Velero · TDD |
+| 2019 – 2023 | Technical Lead | **Cognizant** *(Expedia Group)* | AWS EKS · Terraform · Jenkins · GCP |
+| 2017 – 2019 | Network Engineer | **Atria Convergence** | Routing · Switching · Firewall · NetOps |
 
 ---
 
 ## 📈 Key Achievements
 
 | Metric | Impact |
-|---|---|
-| **80% faster** docs lookup | AI agent (RAG + hybrid search) deployed to BMW Group — used by 200+ engineers |
-| **Zero auth failures** | Self-healing K8s token lifecycle — 14+ rotations, 10+ DBs, zero pod restarts |
-| **Zero-downtime upgrades** | Rolling GitOps upgrade strategy across 15+ Kubernetes platform components |
-| **85%+ LLM accuracy** | Automated LLM-as-a-Judge quality gates blocking AI agent regressions in CI/CD |
-| **45+ resource types** | End-to-end Azure resource lifecycle automation via GitHub Actions + JIT RBAC |
-| **30% fewer deploy bugs** | TDD adoption across Spring Boot microservices (AirIndia, Hexaware) |
-| **3 prod clusters** operated | AKS multi-environment GitOps (DEV/INT/PROD) with ArgoCD app-of-apps |
+|--------|--------|
+| **80% faster** docs lookup | AI RAG agent (hybrid search) — 200+ BMW engineers |
+| **Zero auth failures** | Self-healing K8s token lifecycle · 14+ rotations · 10+ DBs |
+| **Zero-downtime upgrades** | Rolling GitOps across 15+ Kubernetes platform components |
+| **85%+ LLM accuracy** | LLM-as-a-Judge quality gates in CI/CD pipeline |
+| **45+ resource types** | Azure lifecycle automation via GitHub Actions + JIT RBAC |
+| **30% fewer deploy bugs** | TDD adoption on Spring Boot microservices (AirIndia) |
 
 ---
 
@@ -174,14 +144,17 @@ current_focus:
 
 <div align="center">
 
-![CKA](https://img.shields.io/badge/✅_Certified_Kubernetes_Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 &nbsp;
-![AWS](https://img.shields.io/badge/✅_AWS_Certified_Developer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Certified_Developer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1c3a5e,100:0d1117&height=120&section=footer&text=Open%20to%20Senior%20DevOps%20%7C%20Platform%20%7C%20SRE%20Roles&fontSize=16&fontColor=7eb8f7&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+*Open to Senior DevOps · Platform Engineering · SRE · MLOps roles*  
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak12061995/)
+
 </div>
