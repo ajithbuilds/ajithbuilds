@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "status": 200,
+    "resolved": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+  },
+  {
+    "url": "https://github.com/ajithbuilds",
+    "status": 200,
+    "resolved": "https://github.com/ajithbuilds"
+  },
+  {
+    "url": "https://github.com/ajithbuilds/grafana-postgres-token-refresher",
+    "status": 200,
+    "resolved": "https://github.com/ajithbuilds/grafana-postgres-token-refresher"
+  },
+  {
+    "url": "https://hexaware.com/",
+    "status": 200,
+    "resolved": "https://hexaware.com/"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/",
+    "status": 200,
+    "resolved": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"
+  },
+  {
+    "url": "https://www.actcorp.in/",
+    "status": 200,
+    "resolved": "https://www.actcorp.in/"
+  },
+  {
+    "url": "https://www.airindia.com/",
+    "status": "unverified",
+    "note": "The read operation timed out"
+  },
+  {
+    "url": "https://www.bmwtechworks.in/",
+    "status": 200,
+    "resolved": "https://www.bmwtechworks.in/"
+  },
+  {
+    "url": "https://www.cncf.io/training/certification/cka/",
+    "status": 200,
+    "resolved": "https://www.cncf.io/training/certification/cka/"
+  },
+  {
+    "url": "https://www.cognizant.com/",
+    "status": 200,
+    "resolved": "https://www.cognizant.com/in/en"
+  },
+  {
+    "url": "https://www.linkedin.com/in/ak12061995/",
+    "status": 999,
+    "note": "HTTP error; may reflect bot restrictions"
+  },
+  {
+    "url": "https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam",
+    "status": 200,
+    "resolved": "https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam"
+  },
+  {
+    "url": "https://www.westernunion.com/",
+    "status": 200,
+    "resolved": "https://www.westernunion.com/in/en/home.html"
+  }
+]

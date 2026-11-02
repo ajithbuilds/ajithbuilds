@@ -1,0 +1,162 @@
+{
+  "assets/hero-devops-workflow-4k.gif": {
+    "source": "89905fad5516c7ffb84ffb982b8abec0ca996aa5d6a5739e9c5cc123f33825ac",
+    "poster": "a0ad66411383e642847020c377e20de37268ef5cf66b3bb9c4f5e6ffac1ab605"
+  },
+  "assets/hero-mlops-4k.gif": {
+    "source": "685be8b1c54276fc739b709bcea517af7e50e9ef4aeea5b691f4c7751aad65d2",
+    "poster": "f3a920022e23f24a4d4206ac416b9f3049a671078957f41b96d6129fc4dad84a"
+  },
+  "assets/impact.gif": {
+    "source": "e6a35a50a6bfcdb3b8ec154a7e8b0aaeae74bdacf1c8c50bdbeff9465b85262a",
+    "poster": "3a60576e787a36f2a927e404fc6613d49ad8eeccb4ce4bad4f3f1a4887231eb2"
+  },
+  "assets/production-console.gif": {
+    "source": "5ab9ef990f251c56681e733be6637d70146d3c42dd497943b853dea3fe66c832",
+    "poster": "4c63b3b86dfcd4898649adf536eed68a5fe41ab49e0f4fa0ab1fd7ed39b1eb4c"
+  },
+  "assets/role-banner-4k.gif": {
+    "source": "cdfd184fef02a10d5437e09ce1f3bd48c288d50d537e2c35ec509cdf83208077",
+    "poster": "9a4e515115cd082e16795dee0ebe9a19d2a644f4fa1fa6bbafe6030dd9b90969"
+  },
+  "assets/stack-showcase-colour-4k.gif": {
+    "source": "c7798174557ed20d936ed6d1badacc23eb74136090ec49f3a6e13627329e4087",
+    "poster": "5fff5840e7dd2110c2a8c6542e8580a3d6ca338e3bf364274386c24072c32d47"
+  },
+  "assets/tech/ansible.gif": {
+    "source": "70152f909bb8c3f41acd1d92512aec7b115e9914895199945c962d1154112757",
+    "poster": "ae15720175e4dcf7ea52be30f49109305adeafa5795d2a61cd16a3b856693421"
+  },
+  "assets/tech/argocd.gif": {
+    "source": "a84f50c527d0e19d9e888ebe989fcebbc73d4e0fadcb0c52ac987c3724b92c9d",
+    "poster": "c2b577012b965a2e16ebcfebfaf16c8943ade2ef19ee8061c09a92a76afa2bce"
+  },
+  "assets/tech/aws.gif": {
+    "source": "bc23a84b92e77e563a88f85059a866954f04ac20b98a1652f8f30bda0c505d49",
+    "poster": "009e7181402810a79b8fec2088657412579916e069a7b006ebc07d77c9063065"
+  },
+  "assets/tech/azure-devops.gif": {
+    "source": "b62f57404d674f4029e4b666acb4cb5c29eb59e4d583cec6c1c5f596fb65d24a",
+    "poster": "9c26c579dfd12e2a7b132bf97d242697c3407eb237b1a74533b23284055770bc"
+  },
+  "assets/tech/azure.gif": {
+    "source": "29419831c60c25758160530848ef27d654123dcf1fa70be4c997fa0dca300a81",
+    "poster": "120cb8681dd4ea85a8098c3396f578b1613b003025383a682d5af6f39d17ccf3"
+  },
+  "assets/tech/bash.gif": {
+    "source": "3591aa888029bcb674122cd786b613aee4844a63e39cfb93606bbb13ffb1e0ac",
+    "poster": "a0d0c5b010a5cca6e970100263ae8d3c44cec865ac6a9370c2d59bbed4fe05fe"
+  },
+  "assets/tech/cert-manager.gif": {
+    "source": "63bac6234b00434a4188ab7dd356caaeef02dfb29368cdd32b4fbd0794a71dee",
+    "poster": "8e24a88b46882cec35f4baf7a072a39e7bfa5636a5e70e1d6284fba9e54f5306"
+  },
+  "assets/tech/datadog.gif": {
+    "source": "12a888cd0a5446aea1e727c2cc570fa934f42d136899238b53d96978ea8a543b",
+    "poster": "2c156e5c598721fcd67dd75bc2fef8999470167d1cfb71ecd51269c883f804c1"
+  },
+  "assets/tech/docker.gif": {
+    "source": "eec38aaf66bebf7e9bcd0caa570bfc4e01fdb9ace11452a434744395803e31e3",
+    "poster": "98ee5dab06034f6aef13f16e4bcde80e2b07013fe5a3172f7d335e9f2a46db1b"
+  },
+  "assets/tech/gcp.gif": {
+    "source": "8b01c117fda14c562bb965271e92ea4830f7a22f9126401a16c3864c19be68c6",
+    "poster": "f23900a925d12e7c19fc422e48ccee0524005c23eff4f4aa9b7ed0a22030d7a5"
+  },
+  "assets/tech/github-actions.gif": {
+    "source": "eb446f20f7d9750f9d44de4db1f7f6e33e9011c047c48221456197828e73f7e8",
+    "poster": "3628b291967be57278f51d1ec6bc1df45ed9baf6e287df5f2d5680de69937412"
+  },
+  "assets/tech/gitlab.gif": {
+    "source": "3139704679aec29edc09f026d583faaecc5d4d57b289a5145b9ed5a606fdd963",
+    "poster": "24188246d578d6d725830f59a63fff29d0c65c337bf30fb76180b5731440fb1c"
+  },
+  "assets/tech/go.gif": {
+    "source": "836d6322ad32ae9933d5ae8e05ec6a801c3ac60fd8ad8b542c0fe25f28ac7ed6",
+    "poster": "ba44c0cce251eec4bf138e7c02bbe26ea5e9f661e3c5b91342484aee75fa9d9f"
+  },
+  "assets/tech/grafana.gif": {
+    "source": "8209db35459eca2b9e9d3beb6c9783bffe5fef5bbb8238285ae3c1429a9ae336",
+    "poster": "9effb38709fd82d48ff4e506ffbe3e41c35cb4c4472424f7abf6d6ca3d3ebd2c"
+  },
+  "assets/tech/helm.gif": {
+    "source": "6f1de5c46a0449fc20264fd5811d4aaeeee51599c7be0314d7e2390fe38a53ee",
+    "poster": "ed4e91f8f4381e24f9bf222808b064e99c087b6f430ebf0b9bb7cc89e1fe5622"
+  },
+  "assets/tech/istio.gif": {
+    "source": "2cf7a951cce03a30258636f7c5bff3e65989b4eb7976ca412f6ad56ed20bc861",
+    "poster": "bdf09e29b877a0c8ea24eb366425f3146ea27cbb282033a059cf2681f45af3ea"
+  },
+  "assets/tech/jenkins.gif": {
+    "source": "3b0e1d0cce700ece1fca5c45ea1c4024a86d5b8b26fa29ca1a3c977bd72ca9cd",
+    "poster": "98e2e5bed083514e7fbed3238bea5f108c8b91c7b48696a60be547f17b1c2ad2"
+  },
+  "assets/tech/kubernetes.gif": {
+    "source": "4fdd1effa060d959eb51da27ad689172a15b37a3bd37abbaff66ddafba3ca36f",
+    "poster": "1007312aad17be61640735a64120f81488c84a4d4da50692f901f9997dad1772"
+  },
+  "assets/tech/langchain.gif": {
+    "source": "68ae0b17e5dba5550808a5c6774d4a1f05d95dc3a4ddcf161f7bc7d6c8d3def6",
+    "poster": "5dd3fdfe915122ff968d5a56ca8a98502ac5fb19cb0ca78d09caa824d1a2ada6"
+  },
+  "assets/tech/langgraph.gif": {
+    "source": "730aa1bbaa784ea4ebc5468205862d9300c62a72faf8cb58630e7e64e44b3945",
+    "poster": "1a197d544ee25432e23d3fe08cdca7fe5d684bcc8a3962c1f093d6de4807e9de"
+  },
+  "assets/tech/loki.gif": {
+    "source": "c9bc1c58089c1c0f9899d0850c99c135a8b567229211d13253d833689b0cdb64",
+    "poster": "a61e47170a675377057f9552e971391bdf920da4e8c59285cf1a9756458619bc"
+  },
+  "assets/tech/mlflow.gif": {
+    "source": "79e15a468417e42598e6cc66da135314ff8595a4ee3dab8b04390d6eeb2c5e2f",
+    "poster": "55bd3c9d10578e782eb01b2c05e0c464fc6a5ae5e943a36da2a6db1a54fb0a30"
+  },
+  "assets/tech/openshift.gif": {
+    "source": "9d1b4ee96955df847bf0868aced9f1fdb6782845f1ced676dd7e46fe625d7a0c",
+    "poster": "8235220f6b135dedeb388eccf107476a7eb794b38d259bec533014a47d40bf81"
+  },
+  "assets/tech/opentelemetry.gif": {
+    "source": "d79f5517ee6385a3751f5356a5099ebe40e1b0ead4ce94df1fd460093c209e4d",
+    "poster": "92b5dbe87222fbccd34f8872ce4d588a5e716d26aedc2be0c340dc3e9bf4cb9a"
+  },
+  "assets/tech/powershell.gif": {
+    "source": "2d24d32142dcfe287fb4e95fa4052bea6ce69d68149c02e54b9a61d7ceecdfb9",
+    "poster": "895ca5df93550605a85ee7f93a1b62b4e289e7362e51e331c8763d04ae3f9e15"
+  },
+  "assets/tech/prometheus.gif": {
+    "source": "c8018dede9c588fd6b63f74e448e56636c49e646db99bd1c4e15a3413f229a24",
+    "poster": "627b0fa5c1d934b00e0a0f8140bf81f2ade192f881a81e4d0846055fb339d569"
+  },
+  "assets/tech/python.gif": {
+    "source": "afc7a10c02e02c503179efc0bb0a1e6a7e1317965e55c51f9c7332bc3e3682d0",
+    "poster": "eaa4fb3431c3a0ac439a44a431adaf6262abd17ece5e47a0c5adbdbd7557d7de"
+  },
+  "assets/tech/ruby.gif": {
+    "source": "4bcbbc891026d32ee194c426df3ca2b968635bc0599cd7fbf27580cd5cc48330",
+    "poster": "22197d08b32abf302e10a4615aa624906dd956ae51fc1c897e353f7c71c831de"
+  },
+  "assets/tech/terraform.gif": {
+    "source": "e295851e7aa971dbfc226a8bf05ecf948b237ea381906c7bb3960368a442a67e",
+    "poster": "5bef0ba5abac23cc33da9bae49dc2ae79ceac2a831ca7cf8426264ade318a8fe"
+  },
+  "assets/tech/vault.gif": {
+    "source": "fdb7f040b723ecebea2bf317e7e916c9362869930b60d767b9df1bb6ca732071",
+    "poster": "1557484d66c7cf91b0cbd43b717cb7d55fa27ee14c8702beac53bf06b0a87057"
+  },
+  "assets/work/ai-agent-glass-architecture.gif": {
+    "source": "d2c09e44ec690f54f8f6db93afb2edf20aa799e92f8bf28b4b9de4dace74b955",
+    "poster": "ea3207e95088f8a68541f20dfcebd4806df9691fec0f75577e2703f6a0629101"
+  },
+  "assets/work/finops-glass-architecture.gif": {
+    "source": "e3656cdb7279304a6012f504191bb4d02c86b2d33bc8fec56d522267cc5fab51",
+    "poster": "ef54d76ad6aabbd7991c53b5fbc1b3698c645cd361a8d0f22be79c7b3cd10eac"
+  },
+  "assets/work/platform-glass-architecture.gif": {
+    "source": "4479a4f3cc72c45c3577bbbf34c7bff17efe7a80a921a60baac940b3f272a5d9",
+    "poster": "748a41d68c829124fe7c9cf9f875b6b167920dca842445f66e16d0cb437f4bb3"
+  },
+  "assets/work/reliability-glass-architecture.gif": {
+    "source": "ea41b5c021348bca54a71d955bf08298eda74ba0a63f87e17100b6c5ca6d9d30",
+    "poster": "c007b3340ff33752136d8e30edc6796d127b91bb38635da9103ad02a2da6ccc2"
+  }
+}

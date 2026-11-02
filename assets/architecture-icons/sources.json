@@ -1,0 +1,17 @@
+{
+  "terraform": "Brand geometry from existing assets/tech/terraform.svg (Simple Icons)",
+  "argocd": "Brand geometry from existing assets/tech/argocd.svg (Simple Icons)",
+  "helm": "Brand geometry from existing assets/tech/helm.svg (Simple Icons)",
+  "prometheus": "Brand geometry from existing assets/tech/prometheus.svg (Simple Icons)",
+  "langgraph": "Brand geometry from existing assets/tech/langgraph.svg (Simple Icons)",
+  "azure": "Existing assets/pipeline/azure.png; see original source manifest",
+  "github": "Existing assets/pipeline/github.png; see original source manifest",
+  "github-actions": "Existing assets/pipeline/github-actions.png; see original source manifest",
+  "grafana": "Existing assets/pipeline/grafana.png; see original source manifest",
+  "kubernetes": "Existing assets/pipeline/kubernetes.png; see original source manifest",
+  "python": "Existing assets/pipeline/python.png; see original source manifest",
+  "docker": "Existing assets/pipeline/docker.png; see original source manifest",
+  "postgresql": "https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg",
+  "cosmosdb": "https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cosmosdb/cosmosdb-original.svg",
+  "fastify": "https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastify/fastify-original.svg"
+}

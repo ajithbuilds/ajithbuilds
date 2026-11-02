@@ -1,0 +1,268 @@
+{
+  "status": "passed",
+  "checks": [
+    "career corrections",
+    "counter URL invariant",
+    "relative image/file links",
+    "navigation anchors",
+    "unique sections",
+    "static edition",
+    "motion alternatives",
+    "all GIF frames decode",
+    "GIF loop/duration/motion",
+    "SVG/XML and raster validity",
+    "offline preview",
+    "preview content hash and DOM sync",
+    "Python syntax",
+    "portable renderer lock"
+  ],
+  "local_links_checked": 44,
+  "unique_images_checked": 99,
+  "animated_assets": 40,
+  "decoded_gif_frames": 1792,
+  "animated_gif_bytes": 30085741,
+  "static_edition_image_bytes": 4631094,
+  "elapsed_seconds": 4.41,
+  "animations": [
+    {
+      "path": "assets/hero-devops-workflow-4k.gif",
+      "frames": 48,
+      "duration_ms": 8640,
+      "bytes": 6080350
+    },
+    {
+      "path": "assets/hero-mlops-4k.gif",
+      "frames": 48,
+      "duration_ms": 8640,
+      "bytes": 6539704
+    },
+    {
+      "path": "assets/impact.gif",
+      "frames": 72,
+      "duration_ms": 7200,
+      "bytes": 234152
+    },
+    {
+      "path": "assets/production-console.gif",
+      "frames": 24,
+      "duration_ms": 2400,
+      "bytes": 433680
+    },
+    {
+      "path": "assets/role-banner-4k.gif",
+      "frames": 36,
+      "duration_ms": 6480,
+      "bytes": 387865
+    },
+    {
+      "path": "assets/stack-showcase-colour-4k.gif",
+      "frames": 84,
+      "duration_ms": 16800,
+      "bytes": 8792135
+    },
+    {
+      "path": "assets/tech/ansible.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 43328
+    },
+    {
+      "path": "assets/tech/argocd.gif",
+      "frames": 30,
+      "duration_ms": 2560,
+      "bytes": 47848
+    },
+    {
+      "path": "assets/tech/aws.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 43670
+    },
+    {
+      "path": "assets/tech/azure-devops.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 48951
+    },
+    {
+      "path": "assets/tech/azure.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 52165
+    },
+    {
+      "path": "assets/tech/bash.gif",
+      "frames": 30,
+      "duration_ms": 2560,
+      "bytes": 40523
+    },
+    {
+      "path": "assets/tech/cert-manager.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 40366
+    },
+    {
+      "path": "assets/tech/datadog.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 48719
+    },
+    {
+      "path": "assets/tech/docker.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 44721
+    },
+    {
+      "path": "assets/tech/gcp.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 47007
+    },
+    {
+      "path": "assets/tech/github-actions.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 51462
+    },
+    {
+      "path": "assets/tech/gitlab.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 45991
+    },
+    {
+      "path": "assets/tech/go.gif",
+      "frames": 30,
+      "duration_ms": 2560,
+      "bytes": 40632
+    },
+    {
+      "path": "assets/tech/grafana.gif",
+      "frames": 30,
+      "duration_ms": 2560,
+      "bytes": 47072
+    },
+    {
+      "path": "assets/tech/helm.gif",
+      "frames": 28,
+      "duration_ms": 2560,
+      "bytes": 38381
+    },
+    {
+      "path": "assets/tech/istio.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 35396
+    },
+    {
+      "path": "assets/tech/jenkins.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 51990
+    },
+    {
+      "path": "assets/tech/kubernetes.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 50405
+    },
+    {
+      "path": "assets/tech/langchain.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 44819
+    },
+    {
+      "path": "assets/tech/langgraph.gif",
+      "frames": 29,
+      "duration_ms": 2560,
+      "bytes": 42831
+    },
+    {
+      "path": "assets/tech/loki.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 49493
+    },
+    {
+      "path": "assets/tech/mlflow.gif",
+      "frames": 29,
+      "duration_ms": 2560,
+      "bytes": 41125
+    },
+    {
+      "path": "assets/tech/openshift.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 50552
+    },
+    {
+      "path": "assets/tech/opentelemetry.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 45741
+    },
+    {
+      "path": "assets/tech/powershell.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 55599
+    },
+    {
+      "path": "assets/tech/prometheus.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 45193
+    },
+    {
+      "path": "assets/tech/python.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 46943
+    },
+    {
+      "path": "assets/tech/ruby.gif",
+      "frames": 29,
+      "duration_ms": 2560,
+      "bytes": 50127
+    },
+    {
+      "path": "assets/tech/terraform.gif",
+      "frames": 31,
+      "duration_ms": 2560,
+      "bytes": 40884
+    },
+    {
+      "path": "assets/tech/vault.gif",
+      "frames": 32,
+      "duration_ms": 2560,
+      "bytes": 45043
+    },
+    {
+      "path": "assets/work/ai-agent-glass-architecture.gif",
+      "frames": 144,
+      "duration_ms": 12960,
+      "bytes": 1564364
+    },
+    {
+      "path": "assets/work/finops-glass-architecture.gif",
+      "frames": 144,
+      "duration_ms": 12960,
+      "bytes": 1592317
+    },
+    {
+      "path": "assets/work/platform-glass-architecture.gif",
+      "frames": 144,
+      "duration_ms": 12960,
+      "bytes": 1901081
+    },
+    {
+      "path": "assets/work/reliability-glass-architecture.gif",
+      "frames": 120,
+      "duration_ms": 12000,
+      "bytes": 1183116
+    }
+  ]
+}

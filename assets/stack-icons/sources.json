@@ -1,0 +1,129 @@
+{
+  "aws": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg",
+    "sha256": "5b4d8371d79a5c0d3a27ea4e929f772e68d47f7d267496bf9211d5f60fcf8084"
+  },
+  "azure": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+    "sha256": "7923db83e3f9755bd412241a683fa996fb7a9d0259b5084de449e6be92f7ca20"
+  },
+  "gcp": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg",
+    "sha256": "1615b3e53228faa14378f1abb2b78e5f6c3f0ec562bc37db3efde885714e6c2f"
+  },
+  "terraform": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg",
+    "sha256": "0be6427291ae47f057b75f9010dffd6f58a40f0c83c43606ff68851cef1621dc"
+  },
+  "ansible": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg",
+    "sha256": "6e318caf2d49685f921a72231816106859e0bf93e440a70d0445a3f7f030fc9f"
+  },
+  "kubernetes": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg",
+    "sha256": "fb31e4163238978201cfde0601728ee5168b74e476c32c37739bed626fa281ae"
+  },
+  "docker": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    "sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1"
+  },
+  "helm": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg",
+    "sha256": "de0bced19f6c10d3d722393be3e83c44eb5d4d35f1f26f28152c776150f00491",
+    "downloaded_sha256": "83efc74139c06f09c29cab6592fdad80c8ce9e5090fc1da3ba39d40686fb511b",
+    "normalisation": "Trailing whitespace removed; SVG geometry and colours unchanged."
+  },
+  "istio": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/istio/istio-original.svg",
+    "sha256": "eee422157a3b999a414f12a2d1d755689b7acd907ceb98a8a9d20dec6d4fc775"
+  },
+  "argocd": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg",
+    "sha256": "946ce9ce2e6a2513846c2ec90095fd1938ee079d8aa0f5ac2039db7cb37532bb"
+  },
+  "github-actions": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg",
+    "sha256": "3a2524052ccf301d1a239f20cfef98d655e060c51cc29c5e94c867913899a47e"
+  },
+  "gitlab": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg",
+    "sha256": "d057a46d414f4edcb7edf96976ef7b91c2b347a990e99685e48d38de737967b0"
+  },
+  "jenkins": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg",
+    "sha256": "917c7525a9d6c544f4b5d1d4318778e2dee5ef2d47be075ee494613cb10d2a4e"
+  },
+  "azure-devops": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg",
+    "sha256": "49122a38457209cda2d22a1e3af1b4ff159b67714d4e7b43899544555ee2823c"
+  },
+  "prometheus": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg",
+    "sha256": "cae70cfcf9a8b88de32ab1035819d0c7c9a2b278048112f8c9f99dae42b5b657"
+  },
+  "grafana": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg",
+    "sha256": "2dec200d4e56521bec8dd463173c623b33b8c97e6159cac9b3ed00b6bff0f6ad"
+  },
+  "datadog": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg",
+    "sha256": "37536bdc59abe690f2f7b8b7913b9d761dfd70d9b8fda19e3faf0b3924b29496"
+  },
+  "loki": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/grafanaloki/grafanaloki-original.svg",
+    "sha256": "575ed43199fd9239901d0569256fb633c04d12beb275a4ffa1d05e6fa5bbbee5"
+  },
+  "opentelemetry": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg",
+    "sha256": "4a610f674b648395f6460d3648d995e114cf34ad58004c01b9380c1deb7a19cd"
+  },
+  "vault": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg",
+    "sha256": "7ba6a343ddad8558691960d4649e337ac30e4182adb91702980c4cc06f0c8ef3"
+  },
+  "python": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  "go": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg",
+    "sha256": "2d4558b96d3ec71d0d922a62668cb2ea5a5d83ed7d4caf6b0479b3266f795a2f"
+  },
+  "bash": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg",
+    "sha256": "8e9b1f859331c8d11571e77b1371c5d7ac7e380abfcd2f31160ed81dc37de403"
+  },
+  "powershell": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg",
+    "sha256": "f72bc9843ff04005045b659f1ce960d03ddf7707fe02cb5d3dee373914a6d750"
+  },
+  "ruby": {
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg",
+    "sha256": "74ead50b8f0f31e1b34618088bc0b0e16c04f1d4539039ef9358717d8505a63c"
+  },
+  "openshift": {
+    "source": "../tech/openshift.svg embedded product mark",
+    "brand_colour": "#EE0000",
+    "sha256": "2c7fa33534c88b99554b9bac2b84f4e303e759a1dd68a298539bae97af37cb29"
+  },
+  "cert-manager": {
+    "source": "../tech/cert-manager.svg embedded product mark",
+    "brand_colour": "#326CE5",
+    "sha256": "d2fec2ddf4fc8a6405aed3dd439f26b9aee80090c16ce1c87ffde388180eee1e"
+  },
+  "langgraph": {
+    "source": "../tech/langgraph.svg embedded product mark",
+    "brand_colour": "#1C3C3C",
+    "sha256": "bef6f15a8f603ffa2f00201fc7454ba38780f9a17e3a33c9e39d02bed466c449"
+  },
+  "langchain": {
+    "source": "../tech/langchain.svg embedded product mark",
+    "brand_colour": "#1C3C3C",
+    "sha256": "0f78ea046954e04e12f74c60d1569bccbb7772937885d45b7158a2a8196fb512"
+  },
+  "mlflow": {
+    "source": "../tech/mlflow.svg embedded product mark",
+    "brand_colour": "#0194E2",
+    "sha256": "7f289982e6d764f9c2b1378aa55c3fca42a8b15840ba6a014e53d5213f4378f1"
+  }
+}

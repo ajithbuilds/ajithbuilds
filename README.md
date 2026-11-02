@@ -1,300 +1,238 @@
-<div align="center">
+<a name="top"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=1&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Ajith+Kumar+Balasubramanian" alt="Name" />
+<table class="profile-header" width="100%"><tr><td align="left" width="50%"><p align="center" class="banner-contact">
+  <a href="https://github.com/ajithbuilds"><img src="assets/social/github-icon.svg" width="22" height="22" alt="GitHub" /> <sub>GitHub</sub></a>
+  <a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/social/linkedin-small.png" width="22" alt="LinkedIn" /> <sub>LinkedIn</sub></a>
+  <a href="mailto:ajithkumarren@gmail.com"><img src="assets/social/gmail.svg" width="65" height="22" alt="Email me with Gmail" /></a>
+</p></td><td align="right" width="50%"><p align="center" class="profile-nav">
+  <a href="#work"><img src="assets/navigation/work.svg" width="80" height="30" alt="WORK" /></a> &nbsp; <a href="#experience"><img src="assets/navigation/experience.svg" width="128" height="30" alt="EXPERIENCE" /></a> &nbsp; <a href="#tech-stack"><img src="assets/navigation/tech-stack.svg" width="82" height="30" alt="STACK" /></a>
+</p></td></tr></table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1000&color=7EB8F7&center=true&vCenter=true&width=860&height=35&lines=Senior+DevOps+%26+Platform+Engineer+%40+BMW+TechWorks;GenAI+%7C+RAG+Pipelines+%7C+LLM+Agents+%7C+MLOps;Kubernetes+(CKA)+%7C+GitOps+%7C+Multi-Cloud+(AWS+%7C+Azure+%7C+GCP);SRE+%7C+Zero-Downtime+Infrastructure+%7C+Observability" alt="Subtitle" />
+<p align="center" class="hero-identity"><picture><source media="(max-width: 600px)" srcset="assets/hero-identity-mobile.png" /><img src="assets/hero-identity-4k.png" width="960" alt="Portrait of AJITH KUMAR BALASUBRAMANIAN beside his name. Reliable by design. Senior DevOps / Platform Engineer, SRE and AIOps." /></picture></p>
 
-<br/>
+<p align="center" class="top-certifications">
+<a aria-label="Red Hat" href="https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam"><img alt="Red Hat OpenShift administration certification badge" height="116" src="assets/certifications/cards/redhat.svg" width="104"/></a>
+<a aria-label="Kubernetes" href="https://www.cncf.io/training/certification/cka/"><img alt="Certified Kubernetes Administrator (CKA) official badge" height="116" src="assets/certifications/cards/kubernetes.svg" width="104"/></a>
+<a aria-label="AWS" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img alt="AWS Certified Solutions Architect – Associate official badge" height="116" src="assets/certifications/cards/aws.svg" width="104"/></a>
+<a aria-label="Azure" href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img alt="Microsoft Certified Associate official badge for Azure Administrator Associate" height="116" src="assets/certifications/cards/azure.svg" width="104"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/ak12061995/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ajithkumarren@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-devops-workflow-4k.png" /><img src="assets/hero-devops-workflow-4k.gif" width="960" alt="4K animated DevOps pipeline: source, build, verification, packaging, deployment and monitoring." /></picture>
+</p>
 
-<br/><br/>
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/role-banner-4k.png" /><img src="assets/role-banner-4k.gif" width="960" alt="Animated role graphics: Platform Engineering with Kubernetes clusters, Site Reliability Engineering with Prometheus and a health pulse, and Generative AI and MLOps with MLflow and a model network." /></picture>
+</p>
 
-![](https://komarev.com/ghpvc/?username=ajithkumarren&color=1565C0&style=flat-square&label=Profile+Views)
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-mlops-4k.png" /><img src="assets/hero-mlops-4k.gif" width="960" alt="4K animated MLOps pipeline: data preparation, training, MLflow tracking, packaging, Kubernetes inference and monitoring with retraining feedback. Violet glass and mint accents." /></picture>
+</p>
 
-</div>
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/stack-showcase-colour-4k.png" /><img src="assets/stack-showcase-colour-4k.gif" width="960" alt="Animated Tech Stack: all 30 tools across Cloud and Infrastructure, Containers and Orchestration, CI/CD and GitOps, Observability and SRE, Security and Identity, AI and MLOps, and Languages and Scripting. Official product marks on glass panels with category-specific operational graphics." /></picture>
+</p>
 
----
+## Built for Production
 
-## 👤 About Me
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/production-console.png" /><img align="right" src="assets/production-console.gif" width="200" alt="Animated liquid-glass operations console with Azure, Kubernetes and Grafana icons, moving platform signals and a live service-health trace." loading="lazy" /></picture>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+I’m **AJITH KUMAR BALASUBRAMANIAN**, a Senior DevOps / Platform Engineer with **8+ years of experience** building cloud-native platforms and operating production infrastructure across **AWS, Azure, and GCP**.
 
-I'm a **Senior DevOps & Platform Engineer** with **5+ years** of experience building and operating production-grade cloud-native infrastructure at enterprise scale.
+At **BMW TechWorks India**, I work on the BMW Group Standard Cloud Platform: internal developer platforms, Kubernetes operations, secure delivery paths, and production reliability for **200+ engineers**.
 
-Currently at **BMW TechWorks, Chennai**, I sit at the intersection of **Platform Engineering, SRE, and Generative AI** — architecting LLM-powered automation, operating multi-cluster Kubernetes, and designing self-healing infrastructure systems for **200+ engineering teams**.
+My focus is practical automation—from self-service infrastructure and incident response to RAG agents, AI-assisted root-cause analysis, and cloud cost optimization.
 
-<br/>
+**Chennai, India** · [Let’s connect ↗](https://www.linkedin.com/in/ak12061995/)
 
-🏢 &nbsp;**BMW TechWorks, Chennai** — Senior DevOps Engineer *(2025 – Present)*  
-🤖 &nbsp;Production **RAG pipelines + LLM agents** for platform automation  
-☸️ &nbsp;**CKA** · AKS multi-cluster (DEV/INT/PROD) · ArgoCD GitOps at scale  
-☁️ &nbsp;Multi-cloud delivery across **AWS · Azure · GCP** for 5+ years  
-📍 &nbsp;Chennai, India &nbsp;|&nbsp; 📧 ajithkumarren@gmail.com
+<br clear="right" />
+<br />
 
-<br clear="right"/>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/impact.png" /><img src="assets/impact.gif" width="1200" alt="Selected outcomes: 99.9% platform availability at BMW; 65% faster deployments at Cognizant for Western Union; 50K+ monthly AIOps queries at BMW. Animated uptime pulse, build-to-release handoff, and AI query flow." /></picture>
 
----
+<br />
 
-## 🤖 GenAI & MLOps — Building at BMW TechWorks
+<a name="work"></a>
 
-<div align="center">
+## Selected Work
 
-> **Architecting production AI systems that automate infrastructure operations for 200+ engineers at BMW Group**
+### ☁️ 01 / Platform Engineering
 
-</div>
+Operate **3 AKS clusters and 120+ nodes** across development, integration, and production for 9+ microservices. Maintain **99.9% platform uptime** with Argo CD, Helm, GitOps drift controls, and SLI/SLO dashboards. Upgraded 15+ platform components with zero downtime using rolling updates and verification gates.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Automated lifecycle management for **45+ Azure resource types**, bringing provisioning from hours to **under 10 minutes**, with Terraform golden paths, GitHub Actions, and just-in-time RBAC.
 
-**🧠 AI Agent Architecture**
-- LangGraph + Claude / GPT-4 orchestration
-- Hybrid search: vector + BM25 + semantic reranking
-- Azure AI Search with 3,072-dim embeddings
-- SSE streaming for real-time responses
-- Natural-language infra CRUD (8 tool-calling endpoints)
+**AKS · Argo CD · Terraform · GitHub Actions · Prometheus · Grafana**
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="assets/work/platform-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/platform-glass-architecture.png" /><img src="assets/work/platform-glass-architecture.gif" width="960" alt="Animated platform architecture: GitHub Actions and Terraform golden paths provision Azure infrastructure with plan gates and just-in-time RBAC. Argo CD reconciles Helm-based desired state across DEV, INT and PROD AKS environments; controlled promotion, Prometheus and Grafana SLI/SLO signals feed verification and rolling upgrades." loading="lazy" /></picture></a>
+</p>
 
-**⚙️ MLOps Pipeline**
-- Document ingestion → heading-aware chunking
-- Embedding generation → vector indexing
-- Incremental indexing across 435+ documents
-- LLM-as-a-Judge evaluation framework
-- CI/CD quality gates — blocks at < 85% accuracy
+[Open full-size platform diagram ↗](assets/work/platform-glass-architecture.svg)
 
-</td>
-</tr>
-</table>
+<br />
 
-```yaml
-impact:
-  documentation_lookup : "80% faster — replaces manual search for 200+ engineers"
-  accuracy_threshold   : "≥85% enforced by automated LLM evaluation in CI/CD"
-  infra_automation     : "Natural language → Azure Container Apps provisioning"
-  pipeline_scale       : "435+ docs · incremental updates · real-time SSE streaming"
-```
 
-<div align="center">
+### 🛡️ 02 / Reliability Automation
 
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square&logo=python&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-DC2626?style=flat-square&logo=elasticsearch&logoColor=white)
-![LLM Eval](https://img.shields.io/badge/LLM--as--a--Judge-0EA5E9?style=flat-square&logo=python&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-6D28D9?style=flat-square&logo=python&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE_Streaming-059669?style=flat-square&logo=python&logoColor=white)
+Built a self-healing Kubernetes sidecar to refresh Azure AD tokens for Grafana PostgreSQL data sources across **10+ databases**, eliminating production authentication failures. Lead P1 incident response, coordinate rollback and failover, and turn postmortems into preventive actions and runbook improvements.
 
-</div>
+[Explore the public token-refresher repository ↗](https://github.com/ajithbuilds/grafana-postgres-token-refresher)
 
----
+**Kubernetes · Azure AD · PostgreSQL · Grafana · Incident response**
 
-## 🚀 Platform Engineering at BMW TechWorks
+<p align="center">
+  <a href="assets/work/reliability-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/reliability-glass-architecture.png" /><img src="assets/work/reliability-glass-architecture.gif" width="960" alt="Animated Azure AD token-refresh architecture: an init container discovers PostgreSQL databases and writes Grafana data source YAML to shared EmptyDir. A sidecar renews tokens every 45 minutes, updates the Kubernetes secret, and updates Grafana data source passwords via REST API. External Secrets, RBAC, and the Grafana service account support the pod." loading="lazy" /></picture></a>
+</p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+[Open full-size reliability diagram ↗](assets/work/reliability-glass-architecture.svg)
 
-**☸️ Kubernetes & GitOps**
-- 3-cluster AKS (DEV/INT/PROD)
-- ArgoCD app-of-apps pattern
-- 9+ microservices · zero drift
-- Zero-downtime upgrades across 15+ components
+<br />
 
-</td>
-<td width="33%" valign="top">
 
-**🔒 SRE & Security**
-- Self-healing token refresh (45-min cycle)
-- 10+ PostgreSQL DBs · zero auth failures
-- External Secrets + Key Vault
-- Zero-secrets-in-code policy
+### 🧠 03 / AIOps & Knowledge Retrieval
 
-</td>
-<td width="33%" valign="top">
+Built a production AIOps agent using LangGraph, Claude/GPT-4, and Azure AI Search. Hybrid vector/BM25 retrieval and semantic reranking support **50K+ monthly queries** and **80% faster documentation lookup** for 200+ engineers. Also built production incident RCA and GitOps drift-detection engines.
 
-**🏗️ Infrastructure as Code**
-- Terraform: AKS, ACR, Key Vault, VNETs
-- 45+ Azure resource types automated
-- GitHub Actions + JIT RBAC
-- DEV → INT → PROD promotion gates
+**LangGraph · Azure AI Search · Azure OpenAI · RAG · AIOps**
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="assets/work/ai-agent-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/ai-agent-glass-architecture.png" /><img src="assets/work/ai-agent-glass-architecture.gif" width="960" alt="Animated SCP AI Agent Option B architecture: document indexing, authenticated Fastify requests, Azure AI Search hybrid retrieval, LangGraph model evaluation, tool execution and result loop, and Cosmos DB history, feedback and analytics. A compact comparison shows Option A in-memory storage versus Option B persistent storage." loading="lazy" /></picture></a>
+</p>
 
----
+[Open full-size AI agent diagram ↗](assets/work/ai-agent-glass-architecture.svg)
 
-## 🛠️ Tech Stack
+<br />
 
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+### ⚡ 04 / FinOps & Cloud Optimization
 
-</details>
+Built an AI-driven FinOps pipeline that identified **45% cloud cost waste** and **over €200/month in potential savings per customer**. Right-sizing recommendations become GitHub PRs, flow through Terraform and GitHub Actions, and remain under SLI observation for 48 hours before being closed.
 
-<details open>
-<summary><b>🐳 Containers & Orchestration</b></summary>
-<br/>
+**Azure Cost Management · PromQL · GPT-4o · Azure Functions · Terraform**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+<p align="center">
+  <a href="assets/work/finops-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/finops-glass-architecture.png" /><img src="assets/work/finops-glass-architecture.gif" width="960" alt="Animated FinOps architecture: Azure Cost Management, Prometheus usage and Resource Graph feed a weekly Azure Function and GPT-4o analysis. Cosmos DB stores recommendations for a customer report. Apply Now creates a GitHub PR; customer review and merge precede GitHub Actions and Terraform, followed by 48-hour SLI observation. Database scheduling and SKU changes are separate recommendation paths." loading="lazy" /></picture></a>
+</p>
 
-</details>
+[Open full-size FinOps diagram ↗](assets/work/finops-glass-architecture.svg)
 
-<details open>
-<summary><b>🔁 CI/CD & GitOps</b></summary>
-<br/>
+<br />
 
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+<a name="experience"></a>
 
-</details>
-
-<details open>
-<summary><b>📊 Observability & SRE</b></summary>
-<br/>
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔐 Security & Identity</b></summary>
-<br/>
-
-![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![External Secrets](https://img.shields.io/badge/External_Secrets-FF6C37?style=flat-square&logo=kubernetes&logoColor=white)
-![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-4A154B?style=flat-square&logo=auth0&logoColor=white)
-![Cert Manager](https://img.shields.io/badge/Cert_Manager-326CE5?style=flat-square&logo=letsencrypt&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-
-</details>
-
----
-
-## 💼 Experience
+## Professional Experience
 
 <table>
-<tr>
-<th>Period</th>
-<th>Role</th>
-<th>Company & Client</th>
-<th>Key Technologies</th>
-</tr>
-<tr>
-<td><b>2025 – Present</b></td>
-<td>Senior DevOps Engineer</td>
-<td>🏎️ <b>BMW TechWorks</b></td>
-<td>GenAI · LangGraph · AKS · ArgoCD · Terraform · SRE</td>
-</tr>
-<tr>
-<td><b>2023 – 2024</b></td>
-<td>Sr. Technical Analyst</td>
-<td>⬡ <b>Hexaware</b> <i>(AirIndia)</i></td>
-<td>AKS · OpenShift · Azure DevOps · Velero · TDD</td>
-</tr>
-<tr>
-<td><b>2019 – 2023</b></td>
-<td>Technical Lead</td>
-<td>◈ <b>Cognizant</b> <i>(Expedia Group)</i></td>
-<td>AWS EKS · Terraform · Jenkins · GCP · Spring Boot</td>
-</tr>
-<tr>
-<td><b>2017 – 2019</b></td>
-<td>Network Engineer</td>
-<td>◎ <b>Atria Convergence</b></td>
-<td>Routing · Switching · Firewalls · Network Ops</td>
-</tr>
+  <thead>
+    <tr><th>Company</th><th>Role &amp; scope</th><th>Period</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.bmwtechworks.in/"><img src="assets/companies/bmw-techworks-full.svg" width="140" alt="BMW TechWorks India — BMW, MINI and A TATA TECHNOLOGIES Joint Venture" /></a><br /><strong>BMW TechWorks India</strong></td>
+      <td><strong>Senior DevOps / Platform Engineer</strong><br />BMW Group · Standard Cloud Platform<br /><sub>Kubernetes · GitOps · SRE · AIOps</sub></td>
+      <td>Mar 2025<br />— present</td>
+    </tr>
+    <tr>
+      <td><a href="https://hexaware.com/"><img src="assets/companies/hexaware-tile.svg" width="88" alt="Hexaware official logo" /></a><br /><strong>Hexaware Technologies</strong></td>
+      <td><strong>DevOps Engineer — Platform &amp; Cloud Infrastructure</strong><br />Client: <a href="https://www.airindia.com/"><img src="assets/companies/air-india-client.svg" width="68" height="24" alt="Air India logo" /> Air India</a><br /><sub>AKS · OpenShift · CI/CD · Disaster recovery</sub></td>
+      <td>Oct 2023<br />— Mar 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cognizant.com/"><img src="assets/companies/cognizant-tile.svg" width="88" alt="Cognizant official logo" /></a><br /><strong>Cognizant</strong></td>
+      <td><strong>Technical Lead — Cloud &amp; DevOps Engineering</strong><br />Client: <a href="https://www.westernunion.com/"><img src="assets/companies/western-union-client.svg" width="28" height="24" alt="Western Union logo" /> Western Union</a><br /><sub>AWS · Kubernetes · Terraform · Jenkins · GCP</sub></td>
+      <td>Dec 2019<br />— Oct 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.actcorp.in/"><img src="assets/companies/act-tile.svg" width="88" alt="ACT Fibernet official logo" /></a><br /><strong>Atria Convergence Technologies</strong></td>
+      <td><strong>Network Engineer</strong><br />ACT Fibernet<br /><sub>Network operations · Routing · Incident response</sub></td>
+      <td>Oct 2017<br />— Feb 2019</td>
+    </tr>
+  </tbody>
 </table>
 
+<details>
+<summary><strong>Earlier Career Highlights</strong></summary>
+
+- **Hexaware / Air India:** reduced deployment errors by 60% with GitOps; rehearsed disaster recovery to RTO under 1 hour and RPO under 15 minutes; automated TLS rotation for 20+ microservices.
+- **Cognizant / Western Union:** reduced deployment time by 65% across 10+ services, lowered EC2 compute spend by 35%, and managed 150+ AWS resources through Terraform.
+- **Atria Convergence Technologies:** monitored network health, investigated routing and WAN incidents, and coordinated service restoration with field engineers and vendors.
+
+</details>
+
+<br />
+
+<a name="tech-stack"></a>
+
+## Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/aws.png" /><img src="assets/tech/aws.gif" width="65" height="28" alt="AWS" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/azure.png" /><img src="assets/tech/azure.gif" width="126" height="28" alt="Microsoft Azure" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/gcp.png" /><img src="assets/tech/gcp.gif" width="107" height="28" alt="Google Cloud" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/terraform.png" /><img src="assets/tech/terraform.gif" width="89" height="28" alt="Terraform" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/ansible.png" /><img src="assets/tech/ansible.gif" width="73" height="28" alt="Ansible" loading="lazy" /></picture>
+
+
+### 🐳 Containers & Orchestration
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/kubernetes.png" /><img src="assets/tech/kubernetes.gif" width="97" height="28" alt="Kubernetes" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/docker.png" /><img src="assets/tech/docker.gif" width="73" height="28" alt="Docker" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/openshift.png" /><img src="assets/tech/openshift.gif" width="137" height="28" alt="Red Hat OpenShift" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/helm.png" /><img src="assets/tech/helm.gif" width="63" height="28" alt="Helm" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/istio.png" /><img src="assets/tech/istio.gif" width="59" height="28" alt="Istio" loading="lazy" /></picture>
+
+
+### 🔁 CI/CD & GitOps
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/argocd.png" /><img src="assets/tech/argocd.gif" width="79" height="28" alt="Argo CD" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/github-actions.png" /><img src="assets/tech/github-actions.gif" width="115" height="28" alt="GitHub Actions" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/gitlab.png" /><img src="assets/tech/gitlab.gif" width="107" height="28" alt="GitLab CI/CD" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/jenkins.png" /><img src="assets/tech/jenkins.gif" width="75" height="28" alt="Jenkins" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/azure-devops.png" /><img src="assets/tech/azure-devops.gif" width="119" height="28" alt="Azure DevOps" loading="lazy" /></picture>
+
+
+### 📊 Observability & SRE
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/prometheus.png" /><img src="assets/tech/prometheus.gif" width="99" height="28" alt="Prometheus" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/grafana.png" /><img src="assets/tech/grafana.gif" width="77" height="28" alt="Grafana" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/datadog.png" /><img src="assets/tech/datadog.gif" width="81" height="28" alt="Datadog" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/loki.png" /><img src="assets/tech/loki.gif" width="105" height="28" alt="Grafana Loki" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/opentelemetry.png" /><img src="assets/tech/opentelemetry.gif" width="119" height="28" alt="OpenTelemetry" loading="lazy" /></picture>
+
+
+### 🔐 Security & Identity
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/vault.png" /><img src="assets/tech/vault.gif" width="123" height="28" alt="HashiCorp Vault" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/cert-manager.png" /><img src="assets/tech/cert-manager.gif" width="116" height="28" alt="cert-manager" loading="lazy" /></picture>
+
+
+### 🧠 AI & MLOps
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/langgraph.png" /><img src="assets/tech/langgraph.gif" width="95" height="28" alt="LangGraph" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/langchain.png" /><img src="assets/tech/langchain.gif" width="91" height="28" alt="LangChain" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/mlflow.png" /><img src="assets/tech/mlflow.gif" width="71" height="28" alt="MLflow" loading="lazy" /></picture>
+
+
+### 💻 Languages & Scripting
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/python.png" /><img src="assets/tech/python.gif" width="73" height="28" alt="Python" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/go.png" /><img src="assets/tech/go.gif" width="49" height="28" alt="Go" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/bash.png" /><img src="assets/tech/bash.gif" width="61" height="28" alt="Bash" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/powershell.png" /><img src="assets/tech/powershell.gif" width="101" height="28" alt="PowerShell" loading="lazy" /></picture> <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/tech/ruby.png" /><img src="assets/tech/ruby.gif" width="61" height="28" alt="Ruby" loading="lazy" /></picture>
+
+
+<br />
+
+<a name="certifications"></a>
+
+## Certifications
+
+<p>
+  <a href="https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam"><img src="assets/certifications/redhat-openshift.png" width="88" height="88" alt="Red Hat OpenShift administration certification badge" /></a> &nbsp;
+  <a href="https://www.cncf.io/training/certification/cka/"><img src="assets/certifications/cka.svg" width="88" height="88" alt="Certified Kubernetes Administrator (CKA) official badge" /></a> &nbsp;
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="assets/certifications/aws-solutions-architect-associate.png" width="88" height="88" alt="AWS Certified Solutions Architect – Associate official badge" /></a> &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="assets/certifications/azure-administrator.svg" width="88" height="88" alt="Microsoft Certified Associate official badge for Azure Administrator Associate" /></a>
+</p>
+
+- **Red Hat Certified Specialist in OpenShift Administration (EX280)** — Red Hat
+- **Certified Kubernetes Administrator (CKA)** — Cloud Native Computing Foundation / The Linux Foundation
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Microsoft
+
+
+<br />
+
+
 ---
 
-## 📈 Impact at a Glance
+<p align="center">
+  <strong>Good engineering. Lasting impact.</strong><br /><br />
+  Let’s talk about platform engineering, SRE, DevOps, AIOps, and MLOps.<br /><br />
+  <a href="mailto:ajithkumarren@gmail.com"><img src="assets/social/gmail.svg" width="65" height="22" alt="Email me with Gmail" /></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/social/linkedin-small.png" width="20" alt="LinkedIn" /> <sub>Connect on LinkedIn ↗</sub></a>
+</p>
 
-<div align="center">
+<br />
 
-| 🏆 Metric | 📊 Impact |
-|-----------|-----------|
-| **80% faster** docs lookup | AI RAG agent with hybrid search — 200+ BMW engineers |
-| **Zero auth failures** | Self-healing K8s token lifecycle · 14+ rotations · 10+ DBs |
-| **Zero-downtime upgrades** | Rolling GitOps across 15+ Kubernetes platform components |
-| **85%+ LLM accuracy** | LLM-as-a-Judge quality gates enforced in CI/CD |
-| **45+ resource types** | Azure lifecycle automation via GitHub Actions + JIT RBAC |
-| **30% fewer deploy bugs** | TDD on Spring Boot microservices (AirIndia, Hexaware) |
-| **3 prod clusters** operated | AKS multi-env GitOps: DEV · INT · PROD |
-
-</div>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS_Certified_Developer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajithkumarren&show_icons=true&theme=github_dark&hide_border=true&title_color=7EB8F7&icon_color=7EB8F7&text_color=CDD9E5&bg_color=0D1117" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarren&layout=compact&theme=github_dark&hide_border=true&title_color=7EB8F7&text_color=CDD9E5&bg_color=0D1117" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=1&pause=99999&color=7EB8F7&center=true&vCenter=true&width=600&height=30&lines=Open+to+Senior+DevOps+%7C+Platform+Engineering+%7C+SRE+%7C+MLOps+roles" alt="Open to work"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ak12061995/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
+<!-- Keep this legacy counter URL unchanged: its identifier preserves the existing counter. -->
+![Profile views](https://komarev.com/ghpvc/?username=ajithkumarren&color=1565C0&style=flat-square&label=Profile+Views)
