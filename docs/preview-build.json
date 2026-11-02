@@ -1,5 +1,5 @@
 {
-  "readme_sha256": "9c93b48dbb60db6fc33b3e2219cdeea7e39fcf8fa4fd0408ac010ac3e7ed896a",
+  "readme_sha256": "7159e2be79d2f617670c8e1e95e9d5f45196858926592fa9983d7ec9bb58acfb",
   "asset_sha256": {
     "assets/certifications/cards/aws.svg": "e391fd1e5d61292248fe7723dcd439ce207a035ba9468964ed5e0d143811e1f8",
     "assets/certifications/cards/azure.svg": "10cd78d370f1e796b9a6a0bd15301b417083a1e73bf1c15cba225c94822d4524",
@@ -12,9 +12,10 @@
     "assets/companies/hexaware-tile.svg": "f2ac93c3107bc2a7f1bd0b99336bcf8973e471a72588b16f99e29d5268c76365",
     "assets/companies/western-union-client.svg": "1b4ad2402c934a5d539f469f61ee0cf5e5ddd6982efb23ef12647696195fd076",
     "assets/hero-devops-workflow-4k.gif": "fb5a3557e95fa3171663bab40724014a01bfe264141f1ad17fbd712a5402bff4",
+    "assets/hero-identity-4k.png": "cf58a72688c06f440aae5f097d3128e2931162591bf47d2dd27d777be03347a1",
     "assets/hero-mlops-4k.gif": "5f80b67d55503fd26bff9aa9e23445e6ebc13cfa4667d9b4379cb6289f4adf95",
     "assets/impact.gif": "c108186823d0f8e30df5ba70cbc1cee05d6ae23d8e4fc6adf28f5982567ff108",
-    "assets/preview.css": "338115763ca0a094a677b2fe0bc97a3a8eb582055451a1de3b35795b55b22153",
+    "assets/preview.css": "b3142f24dcdf33ac760f998717fe9643dbefcc803b37aa4cb829c0a5001acad5",
     "assets/production-console.gif": "5cd8b53e14dfb7a5fa993c0ed7ef95c89425fadd174ea30061df383709cebef4",
     "assets/role-banner-4k.gif": "acf099077b88eebb586893be547d15644639a493c55edfd930814b2a17fac118",
     "assets/social/github-icon.svg": "84749ad723210a6cede2b04a9c39e8103d3424f5970b85bf77d4c0db2598b7fd",

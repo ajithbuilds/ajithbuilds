@@ -10,10 +10,7 @@
   <a href="#work"><img src="assets/navigation/work.svg" width="80" height="30" alt="WORK" /></a> &nbsp; <a href="#experience"><img src="assets/navigation/experience.svg" width="128" height="30" alt="EXPERIENCE" /></a> &nbsp; <a href="#tech-stack"><img src="assets/navigation/tech-stack.svg" width="82" height="30" alt="STACK" /></a>
 </p></td></tr></table>
 
-<p align="center" class="hero-identity">
-  <strong>AJITH KUMAR BALASUBRAMANIAN</strong><br />
-  <em>Platform Engineer · SRE · MLOps · AI</em>
-</p>
+<p align="center" class="hero-identity"><picture><source media="(max-width: 600px)" srcset="assets/hero-identity-mobile.png" /><img src="assets/hero-identity-4k.png" width="960" alt="AJITH KUMAR BALASUBRAMANIAN. Platform Engineer, SRE, MLOps and AI." /></picture></p>
 
 <a name="certifications"></a>
 <p align="center" class="top-certifications">
