@@ -1,5 +1,12 @@
 # Profile portrait
 
-`ajith-kumar.png` is the user-provided portrait, copied unchanged from the matching local attachment file. The preview displays it at 64px with a circular CSS frame in the top-left corner. The public README retains explicit small dimensions.
+`ajith-kumar.png` is retained as the original source portrait for archival use.
+It is no longer embedded in the public README identity header.
 
-The same unchanged portrait is also embedded in the identity banner: a rounded glass frame beside the name on desktop, with a stacked composition on screens up to 600px. Both layouts are rendered from SVG by `scripts/split_hero.py::render_identity`.
+The live identity line is HTML in `README.md`:
+
+- Line 1: `AJITH KUMAR BALASUBRAMANIAN` (uppercase name)
+- Line 2: `Platform Engineer · SRE · MLOps · AI` (muted role line)
+
+Optional banner artwork without the portrait can still be regenerated with
+`python3 scripts/split_hero.py` (`render_identity`).

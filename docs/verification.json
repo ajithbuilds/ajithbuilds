@@ -17,12 +17,12 @@
     "portable renderer lock"
   ],
   "local_links_checked": 44,
-  "unique_images_checked": 99,
+  "unique_images_checked": 93,
   "animated_assets": 40,
   "decoded_gif_frames": 1792,
   "animated_gif_bytes": 30085741,
-  "static_edition_image_bytes": 4631094,
-  "elapsed_seconds": 3.68,
+  "static_edition_image_bytes": 3394681,
+  "elapsed_seconds": 3.81,
   "animations": [
     {
       "path": "assets/hero-devops-workflow-4k.gif",

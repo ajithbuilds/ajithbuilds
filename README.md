@@ -8,8 +8,12 @@
   <a href="#work"><img src="assets/navigation/work.svg" width="80" height="30" alt="WORK" /></a> &nbsp; <a href="#experience"><img src="assets/navigation/experience.svg" width="128" height="30" alt="EXPERIENCE" /></a> &nbsp; <a href="#tech-stack"><img src="assets/navigation/tech-stack.svg" width="82" height="30" alt="STACK" /></a>
 </p></td></tr></table>
 
-<p align="center" class="hero-identity"><picture><source media="(max-width: 600px)" srcset="assets/hero-identity-mobile.png" /><img src="assets/hero-identity-4k.png" width="960" alt="Portrait of AJITH KUMAR BALASUBRAMANIAN beside his name. Reliable by design. Senior DevOps / Platform Engineer, SRE and AIOps." /></picture></p>
+<p align="center" class="hero-identity">
+  <strong>AJITH KUMAR BALASUBRAMANIAN</strong><br />
+  <em>Platform Engineer · SRE · MLOps · AI</em>
+</p>
 
+<a name="certifications"></a>
 <p align="center" class="top-certifications">
 <a aria-label="Red Hat" href="https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam"><img alt="Red Hat OpenShift administration certification badge" height="116" src="assets/certifications/cards/redhat.svg" width="104"/></a>
 <a aria-label="Kubernetes" href="https://www.cncf.io/training/certification/cka/"><img alt="Certified Kubernetes Administrator (CKA) official badge" height="116" src="assets/certifications/cards/kubernetes.svg" width="104"/></a>
@@ -18,19 +22,11 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-devops-workflow-4k.png" /><img src="assets/hero-devops-workflow-4k.gif" width="960" alt="4K animated DevOps pipeline: source, build, verification, packaging, deployment and monitoring." /></picture>
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/impact.png" /><img src="assets/impact.gif" width="1200" alt="Selected outcomes: 99.9% platform availability at BMW; 65% faster deployments at Cognizant for Western Union; 50K+ monthly AIOps queries at BMW. Animated uptime pulse, build-to-release handoff, and AI query flow." /></picture>
 </p>
 
 <p align="center">
   <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/role-banner-4k.png" /><img src="assets/role-banner-4k.gif" width="960" alt="Animated role graphics: Platform Engineering with Kubernetes clusters, Site Reliability Engineering with Prometheus and a health pulse, and Generative AI and MLOps with MLflow and a model network." /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-mlops-4k.png" /><img src="assets/hero-mlops-4k.gif" width="960" alt="4K animated MLOps pipeline: data preparation, training, MLflow tracking, packaging, Kubernetes inference and monitoring with retraining feedback. Violet glass and mint accents." /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/stack-showcase-colour-4k.png" /><img src="assets/stack-showcase-colour-4k.gif" width="960" alt="Animated Tech Stack: all 30 tools across Cloud and Infrastructure, Containers and Orchestration, CI/CD and GitOps, Observability and SRE, Security and Identity, AI and MLOps, and Languages and Scripting. Official product marks on glass panels with category-specific operational graphics." /></picture>
 </p>
 
 ## Built for Production
@@ -43,14 +39,14 @@ At **BMW TechWorks India**, I work on the BMW Group Standard Cloud Platform: int
 
 My focus is practical automation—from self-service infrastructure and incident response to RAG agents, AI-assisted root-cause analysis, and cloud cost optimization.
 
-**Chennai, India** · [Let’s connect ↗](https://www.linkedin.com/in/ak12061995/)
+**Chennai, India** · Open to Platform / SRE roles · [Let’s connect ↗](https://www.linkedin.com/in/ak12061995/)
 
 <br clear="right" />
 <br />
 
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/impact.png" /><img src="assets/impact.gif" width="1200" alt="Selected outcomes: 99.9% platform availability at BMW; 65% faster deployments at Cognizant for Western Union; 50K+ monthly AIOps queries at BMW. Animated uptime pulse, build-to-release handoff, and AI query flow." /></picture>
-
-<br />
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/stack-showcase-colour-4k.png" /><img src="assets/stack-showcase-colour-4k.gif" width="960" alt="Animated Tech Stack: all 30 tools across Cloud and Infrastructure, Containers and Orchestration, CI/CD and GitOps, Observability and SRE, Security and Identity, AI and MLOps, and Languages and Scripting. Official product marks on glass panels with category-specific operational graphics." loading="lazy" /></picture>
+</p>
 
 <a name="work"></a>
 
@@ -63,6 +59,10 @@ Operate **3 AKS clusters and 120+ nodes** across development, integration, and p
 Automated lifecycle management for **45+ Azure resource types**, bringing provisioning from hours to **under 10 minutes**, with Terraform golden paths, GitHub Actions, and just-in-time RBAC.
 
 **AKS · Argo CD · Terraform · GitHub Actions · Prometheus · Grafana**
+
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-devops-workflow-4k.png" /><img src="assets/hero-devops-workflow-4k.gif" width="960" alt="4K animated DevOps pipeline: source, build, verification, packaging, deployment and monitoring." loading="lazy" /></picture>
+</p>
 
 <p align="center">
   <a href="assets/work/platform-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/platform-glass-architecture.png" /><img src="assets/work/platform-glass-architecture.gif" width="960" alt="Animated platform architecture: GitHub Actions and Terraform golden paths provision Azure infrastructure with plan gates and just-in-time RBAC. Argo CD reconciles Helm-based desired state across DEV, INT and PROD AKS environments; controlled promotion, Prometheus and Grafana SLI/SLO signals feed verification and rolling upgrades." loading="lazy" /></picture></a>
@@ -95,6 +95,10 @@ Built a self-healing Kubernetes sidecar to refresh Azure AD tokens for Grafana P
 Built a production AIOps agent using LangGraph, Claude/GPT-4, and Azure AI Search. Hybrid vector/BM25 retrieval and semantic reranking support **50K+ monthly queries** and **80% faster documentation lookup** for 200+ engineers. Also built production incident RCA and GitOps drift-detection engines.
 
 **LangGraph · Azure AI Search · Azure OpenAI · RAG · AIOps**
+
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero-mlops-4k.png" /><img src="assets/hero-mlops-4k.gif" width="960" alt="4K animated MLOps pipeline: data preparation, training, MLflow tracking, packaging, Kubernetes inference and monitoring with retraining feedback. Violet glass and mint accents." loading="lazy" /></picture>
+</p>
 
 <p align="center">
   <a href="assets/work/ai-agent-glass-architecture.svg" aria-label="Open full-size architecture diagram"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/ai-agent-glass-architecture.png" /><img src="assets/work/ai-agent-glass-architecture.gif" width="960" alt="Animated SCP AI Agent Option B architecture: document indexing, authenticated Fastify requests, Azure AI Search hybrid retrieval, LangGraph model evaluation, tool execution and result loop, and Cosmos DB history, feedback and analytics. A compact comparison shows Option A in-memory storage versus Option B persistent storage." loading="lazy" /></picture></a>
@@ -151,14 +155,11 @@ Built an AI-driven FinOps pipeline that identified **45% cloud cost waste** and 
   </tbody>
 </table>
 
-<details>
-<summary><strong>Earlier Career Highlights</strong></summary>
+**Earlier career highlights**
 
-- **Hexaware / Air India:** reduced deployment errors by 60% with GitOps; rehearsed disaster recovery to RTO under 1 hour and RPO under 15 minutes; automated TLS rotation for 20+ microservices.
-- **Cognizant / Western Union:** reduced deployment time by 65% across 10+ services, lowered EC2 compute spend by 35%, and managed 150+ AWS resources through Terraform.
+- **Hexaware / Air India:** reduced deployment errors by **60%** with GitOps; rehearsed disaster recovery to RTO under 1 hour and RPO under 15 minutes; automated TLS rotation for 20+ microservices.
+- **Cognizant / Western Union:** reduced deployment time by **65%** across 10+ services, lowered EC2 compute spend by **35%**, and managed 150+ AWS resources through Terraform.
 - **Atria Convergence Technologies:** monitored network health, investigated routing and WAN incidents, and coordinated service restoration with field engineers and vendors.
-
-</details>
 
 <br />
 
@@ -203,16 +204,9 @@ Built an AI-driven FinOps pipeline that identified **45% cloud cost waste** and 
 
 <br />
 
-<a name="certifications"></a>
-
 ## Certifications
 
-<p>
-  <a href="https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam"><img src="assets/certifications/redhat-openshift.png" width="88" height="88" alt="Red Hat OpenShift administration certification badge" /></a> &nbsp;
-  <a href="https://www.cncf.io/training/certification/cka/"><img src="assets/certifications/cka.svg" width="88" height="88" alt="Certified Kubernetes Administrator (CKA) official badge" /></a> &nbsp;
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="assets/certifications/aws-solutions-architect-associate.png" width="88" height="88" alt="AWS Certified Solutions Architect – Associate official badge" /></a> &nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="assets/certifications/azure-administrator.svg" width="88" height="88" alt="Microsoft Certified Associate official badge for Azure Administrator Associate" /></a>
-</p>
+Credential names for the badges above:
 
 - **Red Hat Certified Specialist in OpenShift Administration (EX280)** — Red Hat
 - **Certified Kubernetes Administrator (CKA)** — Cloud Native Computing Foundation / The Linux Foundation
@@ -226,8 +220,8 @@ Built an AI-driven FinOps pipeline that identified **45% cloud cost waste** and 
 ---
 
 <p align="center">
-  <strong>Good engineering. Lasting impact.</strong><br /><br />
-  Let’s talk about platform engineering, SRE, DevOps, AIOps, and MLOps.<br /><br />
+  <strong>Open to Platform Engineering, SRE, and Senior / Staff DevOps roles.</strong><br />
+  Chennai-based · open to remote · practical automation over slideware.<br /><br />
   <a href="mailto:ajithkumarren@gmail.com"><img src="assets/social/gmail.svg" width="65" height="22" alt="Email me with Gmail" /></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/social/linkedin-small.png" width="20" alt="LinkedIn" /> <sub>Connect on LinkedIn ↗</sub></a>
 </p>

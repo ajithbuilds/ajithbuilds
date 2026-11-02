@@ -58,7 +58,13 @@ def main():
             assert badges and len(badges.find_all('a',recursive=False))==4, 'Certification badges escaped their shared row'
             assert [a.get('aria-label') for a in badges.find_all('a',recursive=False)]==['Red Hat','Kubernetes','AWS','Azure']
             markup=str(soup)
-            assert markup.index('hero-identity-4k.png') < markup.index('top-certifications') < markup.index('hero-devops-workflow-4k') < markup.index('role-banner-4k') < markup.index('hero-mlops-4k')
+            # Lean above-the-fold: identity → credentials → outcomes → one role strip.
+            # Heavier workflow/stack animations live inside Selected Work / Tech Stack.
+            assert markup.index('hero-identity') < markup.index('top-certifications') < markup.index('impact.') < markup.index('role-banner-4k')
+            assert markup.index('role-banner-4k') < markup.index('stack-showcase-colour-4k') < markup.index('hero-devops-workflow-4k') < markup.index('hero-mlops-4k')
+            identity_text=soup.select_one('.hero-identity').get_text(' ',strip=True)
+            assert 'AJITH KUMAR BALASUBRAMANIAN' in identity_text
+            assert 'Platform Engineer' in identity_text and 'SRE' in identity_text and 'MLOps' in identity_text and 'AI' in identity_text
             assert not soup.find_all('img',src=re.compile(r'^https?://')),'Preview unexpectedly loads remote images'
         if name=='PROFILE-STATIC.md':assert not soup.find_all('img',src=re.compile(r'\.gif$')),'Static edition still animates'
     for architecture,slug in [('platform','terraform'),('platform','prometheus'),('ai-agent','langgraph'),('finops','github-actions')]:
@@ -73,8 +79,11 @@ def main():
     for picture in main_soup.find_all('picture'):
         if picture.find('img',src=re.compile(r'\.gif$')):
             assert picture.find('source',media='(prefers-reduced-motion: reduce)')
-    identity=main_soup.select_one('.hero-identity picture')
-    assert identity and identity.find('source',media='(max-width: 600px)'), 'Missing mobile portrait composition'
+    identity=main_soup.select_one('.hero-identity')
+    identity_text=identity.get_text(' ',strip=True) if identity else ''
+    assert identity and 'AJITH KUMAR BALASUBRAMANIAN' in identity_text and 'MLOps' in identity_text, 'Identity header missing name/role lines'
+    assert identity.find('strong') and identity.find('em'), 'Name and role lines should use distinct markup'
+    assert not identity.find('img'), 'Portrait should be removed from the identity header'
     gifs=[];frames_total=0;animated_bytes=0
     for path in sorted(images):
         if path.suffix=='.svg':

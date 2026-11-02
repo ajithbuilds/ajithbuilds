@@ -1,21 +1,23 @@
 """Split the shared animation at the workflow boundary for clickable social links."""
 from pathlib import Path
 from PIL import Image
-import base64,json,subprocess
+import json,subprocess
 ROOT=Path(__file__).resolve().parent.parent
 
+RENDER_JS="const fs=require('fs');const {Resvg}=require('./tools/node_modules/@resvg/resvg-js');let v=JSON.parse(fs.readFileSync(0,'utf8'));fs.writeFileSync(v.path,new Resvg(v.svg).render().asPng());"
+
+def _render_png(svg:str,path:Path)->None:
+ subprocess.run(['node','-e',RENDER_JS],input=json.dumps({'svg':svg,'path':str(path)}),text=True,cwd=ROOT,check=True)
+
 def render_identity():
- photo=base64.b64encode((ROOT/'assets/profile/ajith-kumar.png').read_bytes()).decode()
- source=f'''<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="1128" viewBox="0 0 960 282" role="img" aria-labelledby="title desc"><title id="title">AJITH KUMAR BALASUBRAMANIAN</title><desc id="desc">Professional portrait with the role Senior DevOps / Platform Engineer, SRE and AIOps. Reliable by design.</desc><defs><linearGradient id="portraitRim" x2="1" y2="1"><stop stop-color="#c6d8e7" stop-opacity=".6"/><stop offset=".5" stop-color="#60758b" stop-opacity=".3"/><stop offset="1" stop-color="#b7abc9" stop-opacity=".55"/></linearGradient><linearGradient id="frame" x2="1" y2="1"><stop stop-color="#b7c7df" stop-opacity=".13"/><stop offset="1" stop-color="#536a8a" stop-opacity=".07"/></linearGradient><clipPath id="portraitClip"><rect x="53" y="38" width="164" height="200" rx="19"/></clipPath></defs><rect width="960" height="282" fill="#000"/><rect x="47" y="32" width="176" height="212" rx="25" fill="url(#frame)" stroke="url(#portraitRim)" stroke-width="1.2"/><image x="53" y="38" width="164" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="data:image/png;base64,{photo}"/><rect x="53" y="38" width="164" height="200" rx="19" fill="none" stroke="#e0e9f1" stroke-opacity=".18"/><path d="M73 33h67" stroke="#e4f2ff" stroke-opacity=".35" stroke-linecap="round"/><g font-family="Arial, Helvetica, sans-serif"><text x="264" y="92" font-size="44" font-weight="700" fill="#eff4ff">AJITH KUMAR</text><text x="264" y="146" font-size="44" font-weight="700" fill="#eff4ff">BALASUBRAMANIAN</text><text x="265" y="193" font-size="26" font-weight="700" fill="#d8d8dd">Reliable by design.</text><text x="266" y="227" font-size="16" fill="#a8adb8">Senior DevOps / Platform Engineer · SRE · AIOps</text></g></svg>'''
+ # Optional banner artwork kept in sync with the HTML identity line in README.md.
+ # The public profile uses the HTML title; these PNGs remain for local/offline reuse.
+ source='''<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="560" viewBox="0 0 960 140" role="img" aria-labelledby="title desc"><title id="title">AJITH KUMAR BALASUBRAMANIAN</title><desc id="desc">Platform Engineer, SRE, MLOps and AI.</desc><rect width="960" height="140" fill="#000"/><g font-family="Arial, Helvetica, sans-serif" text-anchor="middle"><text x="480" y="68" font-size="36" font-weight="700" fill="#eff4ff" letter-spacing="2">AJITH KUMAR BALASUBRAMANIAN</text><text x="480" y="108" font-size="16" font-weight="500" fill="#9eb0c4" letter-spacing="3.5">PLATFORM ENGINEER  ·  SRE  ·  MLOPS  ·  AI</text></g></svg>'''
  (ROOT/'assets/hero-identity-4k.svg').write_text(source)
- js="const fs=require('fs');const {Resvg}=require('./tools/node_modules/@resvg/resvg-js');let v=JSON.parse(fs.readFileSync(0,'utf8'));fs.writeFileSync(v.path,new Resvg(v.svg).render().asPng());"
- subprocess.run(['node','-e',js],input=json.dumps({'svg':source,'path':str(ROOT/'assets/hero-identity-4k.png')}),text=True,cwd=ROOT,check=True)
- # A stacked portrait composition keeps the name and role legible on phones.
- defs=source[source.index('<defs>'):source.index('</defs>')+7]
- defs=defs.replace('<rect x="53" y="38" width="164" height="200" rx="19"/>','<rect x="184" y="24" width="112" height="136" rx="17"/>')
- mobile=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1560" viewBox="0 0 480 390">{defs}<rect width="480" height="390" fill="#000"/><rect x="178" y="18" width="124" height="148" rx="23" fill="url(#frame)" stroke="url(#portraitRim)"/><image x="184" y="24" width="112" height="136" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="data:image/png;base64,{photo}"/><g font-family="Arial, Helvetica, sans-serif" text-anchor="middle"><text x="240" y="215" font-size="31" font-weight="700" fill="#eff4ff">AJITH KUMAR</text><text x="240" y="253" font-size="31" font-weight="700" fill="#eff4ff">BALASUBRAMANIAN</text><text x="240" y="302" font-size="24" font-weight="700" fill="#d8d8dd">Reliable by design.</text><text x="240" y="339" font-size="16" fill="#a8adb8">Senior DevOps / Platform Engineer</text><text x="240" y="365" font-size="15" fill="#a8adb8">SRE · AIOps</text></g></svg>'''
+ _render_png(source,ROOT/'assets/hero-identity-4k.png')
+ mobile='''<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="560" viewBox="0 0 480 140" role="img" aria-labelledby="title desc"><title id="title">AJITH KUMAR BALASUBRAMANIAN</title><desc id="desc">Platform Engineer, SRE, MLOps and AI.</desc><rect width="480" height="140" fill="#000"/><g font-family="Arial, Helvetica, sans-serif" text-anchor="middle"><text x="240" y="52" font-size="20" font-weight="700" fill="#eff4ff">AJITH KUMAR</text><text x="240" y="78" font-size="20" font-weight="700" fill="#eff4ff">BALASUBRAMANIAN</text><text x="240" y="112" font-size="11" font-weight="500" fill="#9eb0c4" letter-spacing="1.5">PLATFORM ENGINEER · SRE · MLOPS · AI</text></g></svg>'''
  (ROOT/'assets/hero-identity-mobile.svg').write_text(mobile)
- subprocess.run(['node','-e',js],input=json.dumps({'svg':mobile,'path':str(ROOT/'assets/hero-identity-mobile.png')}),text=True,cwd=ROOT,check=True)
+ _render_png(mobile,ROOT/'assets/hero-identity-mobile.png')
 
 
 def main():
