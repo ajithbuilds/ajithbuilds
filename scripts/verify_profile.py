@@ -52,8 +52,10 @@ def main():
             assert len({h.get('id') for h in headings if h.get('id')})==len([h for h in headings if h.get('id')]), 'Duplicate heading anchors'
             assert 'AJITHBUILDS' not in soup.title.get_text(), 'Old wordmark remains in page title'
             assert not soup.find(id='motion-toggle') and not soup.find('button'), 'Removed animation control returned'
-            nav=soup.find('nav',attrs={'aria-label':'Profile navigation'})
-            assert [a.get_text() for a in nav.find_all('a')]==['WORK','EXPERIENCE','STACK']
+            header=soup.select_one('.profile-header')
+            assert header and not header.find_parent('table'), 'Header bar should not be a bordered table'
+            assert [a.get('href') for a in header.find_all('a')]==['https://github.com/ajithbuilds','https://www.linkedin.com/in/ak12061995/','mailto:ajithkumarren@gmail.com','#work','#experience','#tech-stack']
+            assert sum(int(img['width']) for img in header.find_all('img'))==700, 'Header slices must stay on one line'
             badges=soup.select_one('.top-certifications')
             assert badges and len(badges.find_all('a',recursive=False))==4, 'Certification badges escaped their shared row'
             assert [a.get('aria-label') for a in badges.find_all('a',recursive=False)]==['Red Hat','Kubernetes','AWS','Azure']
