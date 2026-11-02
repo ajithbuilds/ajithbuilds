@@ -1,6 +1,6 @@
 # Profile audit — 1 November 2026
 
-The local artifact pipeline passes its acceptance checks. The liquid-glass design, four detailed work architectures, animated tech tags, uppercase name, company/client logos, and corrected career details are retained. The repository has been prepared for the requested GitHub profile publication. See [PUBLICATION.md](PUBLICATION.md) for status and recovery details.
+The local artifact pipeline passes its acceptance checks. The liquid-glass design, four detailed work architectures, animated tech tags, uppercase name, company/client logos, and corrected career details are retained. The portfolio is published as the main `ajithbuilds` GitHub profile. See [PUBLICATION.md](PUBLICATION.md) for status and recovery details.
 
 ## Improvements completed
 
@@ -75,7 +75,7 @@ Animated GIF assets total **20.01 MiB**; the static edition’s referenced image
 
 ## Research and technical validation
 
-GitHub documents that the profile repository must be public and named after the account. The live repository metadata still resolves to **`ajithbuilds/ajithkumarbsh060`**. For display on the renamed account's profile, the eventual repository name should be **`ajithbuilds`**. No remote rename was performed. [GitHub profile README requirements](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)
+GitHub documents that the profile repository must be public and named after the account. The live profile repository is now **`ajithbuilds/ajithbuilds`**. The previous **`ajithbuilds/ajithkumarbsh060`** repository remains unchanged. A new repository was created rather than renaming the original. [GitHub profile README requirements](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)
 
 The public README uses relative image/file links and native `<picture>` elements, both supported by GitHub. Browser support for reduced-motion media selection supplies static alternatives. The local preview uses native picture sources rather than custom animation controls. [GitHub Markdown and images](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [W3C motion preference technique](https://www.w3.org/WAI/WCAG22/Techniques/css/C39.html), [W3C pause/stop/hide guidance](https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide)
 
@@ -103,7 +103,7 @@ Microsoft documents parallel full-text/vector retrieval combined with RRF, follo
 
 ## Verification limits
 
-This was a local source/artifact/build audit. Live GitHub profile rendering and mobile browser interaction were not exercised, and no published deployment was changed. Automated browser access to local `file://` previews was blocked by the browser URL policy earlier in the session; no bypass was attempted. The generated HTML/DOM, responsive CSS, image files, and reduced-motion sources were checked locally, but this is not a claim of a browser screenshot or full accessibility certification.
+This was a local source/artifact/build audit. The public GitHub profile HTML was fetched without image loading, and the new README was detected. Remote README bytes and all referenced artwork paths were verified. Interactive mobile browser rendering was not exercised. Automated browser access to local `file://` previews was blocked by the browser URL policy earlier in the session; no bypass was attempted. The generated HTML/DOM, responsive CSS, image files, and reduced-motion sources were checked locally, but this is not a claim of a browser screenshot or full accessibility certification.
 
 Career outcomes, employer history and certifications come from the supplied resume and user corrections. Their real-world outcomes, current certification validity, and production applications were not independently verified. The diagrams represent the user-supplied designs, not captured runtime traces. Certification links point to issuer program descriptions rather than invented personal verification records.
 

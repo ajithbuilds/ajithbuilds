@@ -10,4 +10,6 @@ The original counter URL and identifier are preserved exactly. Verification does
 
 Recovery copies are stored outside the repository under `../profile-backup/pre-profile-publication/`: the original Git-history bundle, a full working-project archive, the previous remote commit, and retired artwork.
 
-Publication status is recorded after remote verification in `repository-status.json`.
+Published and verified: 2026-11-02T17:24:51.663744+00:00. The new README was detected on the public profile page (HTTP 200), all 106 referenced artwork paths exist, and the previous repository's main commit is unchanged. Details are recorded in `repository-status.json`.
+
+The local `origin` remote points to `ajithbuilds/ajithbuilds`; `previous-profile` retains the original repository URL.
