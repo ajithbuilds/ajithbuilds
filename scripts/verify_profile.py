@@ -54,8 +54,10 @@ def main():
             assert not soup.find(id='motion-toggle') and not soup.find('button'), 'Removed animation control returned'
             header=soup.select_one('.profile-header')
             assert header and not header.find_parent('table'), 'Header bar should not be a bordered table'
-            assert [a.get('href') for a in header.find_all('a')]==['https://github.com/ajithbuilds','https://www.linkedin.com/in/ak12061995/','mailto:ajithkumarren@gmail.com','#work','#experience','#tech-stack']
-            assert sum(int(img['width']) for img in header.find_all('img'))==700, 'Header slices must stay on one line'
+            assert [a.get('href') for a in header.find_all('a')]==['https://github.com/ajithbuilds','https://www.linkedin.com/in/ak12061995/','mailto:ajithkumarren@gmail.com']
+            nav=soup.select_one('.section-nav')
+            assert [a.get('href') for a in nav.find_all('a')]==['#work','#experience','#tech-stack']
+            assert str(soup).index('section-nav') < str(soup).index('Built for Production')
             badges=soup.select_one('.top-certifications')
             assert badges and len(badges.find_all('a',recursive=False))==4, 'Certification badges escaped their shared row'
             assert [a.get('aria-label') for a in badges.find_all('a',recursive=False)]==['Red Hat','Kubernetes','AWS','Azure']

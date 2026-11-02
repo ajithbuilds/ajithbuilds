@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<p align="center" class="profile-header"><a href="https://github.com/ajithbuilds"><img src="assets/header/github.png" width="90" height="47" alt="GitHub" /></a><a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/header/linkedin.png" width="93" height="47" alt="LinkedIn" /></a><a href="mailto:ajithkumarren@gmail.com"><img src="assets/header/gmail.png" width="73" height="47" alt="Email me with Gmail" /></a><img src="assets/header/gap.png" width="181" height="47" alt="Header spacing" /><a href="#work"><img src="assets/header/work.png" width="69" height="47" alt="WORK" /></a><a href="#experience"><img src="assets/header/experience.png" width="109" height="47" alt="EXPERIENCE" /></a><a href="#tech-stack"><img src="assets/header/stack.png" width="85" height="47" alt="STACK" /></a></p>
+<p align="center" class="profile-header"><a href="https://github.com/ajithbuilds"><img src="assets/header/contact-github.png" width="91" height="47" alt="GitHub" /></a><a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/header/contact-linkedin.png" width="93" height="47" alt="LinkedIn" /></a><a href="mailto:ajithkumarren@gmail.com"><img src="assets/header/contact-gmail.png" width="81" height="47" alt="Email me with Gmail" /></a></p>
 
 <p align="center" class="hero-identity"><picture><source media="(max-width: 600px)" srcset="assets/hero-identity-mobile.png" /><img src="assets/hero-identity-4k.png" width="960" alt="AJITH KUMAR BALASUBRAMANIAN. Platform Engineer, SRE, MLOps and AI." /></picture></p>
 
@@ -19,6 +19,8 @@
 <p align="center">
   <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/static/role-banner-4k.png" /><img src="assets/role-banner-4k.gif" width="960" alt="Animated role graphics: Platform Engineering with Kubernetes clusters, Site Reliability Engineering with Prometheus and a health pulse, and Generative AI and MLOps with MLflow and a model network." /></picture>
 </p>
+
+<p align="center" class="section-nav"><a href="#work"><img src="assets/header/nav-work.png" width="93" height="47" alt="WORK" /></a><a href="#experience"><img src="assets/header/nav-experience.png" width="119" height="47" alt="EXPERIENCE" /></a><a href="#tech-stack"><img src="assets/header/nav-stack.png" width="97" height="47" alt="STACK" /></a></p>
 
 ## Built for Production
 
