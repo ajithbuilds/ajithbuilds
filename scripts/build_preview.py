@@ -80,8 +80,10 @@ def render(md):
     header_table=soup.find('table',class_='profile-header')
     if header_table:
         holder=soup.new_tag('div')
-        contact=header_table.find('p',class_='banner-contact').extract()
-        navigation=header_table.find('p',class_='profile-nav').extract()
+        contact=header_table.find(class_='banner-contact').extract()
+        navigation=header_table.find(class_='profile-nav').extract()
+        contact.name='p'
+        navigation.name='p'
         header_table.replace_with(holder)
         holder.append(contact)
         holder.append(navigation)
