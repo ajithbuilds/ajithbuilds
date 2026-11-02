@@ -21,8 +21,8 @@
   "animated_assets": 40,
   "decoded_gif_frames": 1792,
   "animated_gif_bytes": 30085741,
-  "static_edition_image_bytes": 3455117,
-  "elapsed_seconds": 3.81,
+  "static_edition_image_bytes": 3458355,
+  "elapsed_seconds": 3.96,
   "animations": [
     {
       "path": "assets/hero-devops-workflow-4k.gif",

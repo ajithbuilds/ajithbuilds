@@ -1,12 +1,15 @@
 <a name="top"></a>
 
-<table class="profile-header" width="100%"><tr><td align="left" width="50%"><p align="center" class="banner-contact">
-  <a href="https://github.com/ajithbuilds"><img src="assets/social/github-icon.svg" width="22" height="22" alt="GitHub" /> <sub>GitHub</sub></a>
-  <a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/social/linkedin-small.png" width="22" alt="LinkedIn" /> <sub>LinkedIn</sub></a>
-  <a href="mailto:ajithkumarren@gmail.com"><img src="assets/social/gmail.svg" width="65" height="22" alt="Email me with Gmail" /></a>
-</p></td><td align="right" width="50%"><p align="center" class="profile-nav">
-  <a href="#work"><img src="assets/navigation/work.svg" width="80" height="30" alt="WORK" /></a> &nbsp; <a href="#experience"><img src="assets/navigation/experience.svg" width="128" height="30" alt="EXPERIENCE" /></a> &nbsp; <a href="#tech-stack"><img src="assets/navigation/tech-stack.svg" width="82" height="30" alt="STACK" /></a>
-</p></td></tr></table>
+<table class="profile-header" width="100%"><tr>
+<td align="left" valign="middle" width="48%"><p align="left" class="banner-contact">
+  <a href="https://github.com/ajithbuilds"><img src="assets/social/github-icon.svg" width="20" height="20" alt="GitHub" /> <sub>GitHub</sub></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ak12061995/"><img src="assets/social/linkedin-small.png" width="20" alt="LinkedIn" /> <sub>LinkedIn</sub></a>&nbsp;&nbsp;
+  <a href="mailto:ajithkumarren@gmail.com"><img src="assets/social/gmail.svg" width="58" height="20" alt="Email me with Gmail" /></a>
+</p></td>
+<td align="right" valign="middle" width="52%" nowrap><p align="right" class="profile-nav">
+  <a href="#work"><img src="assets/navigation/work.svg" width="64" height="24" alt="WORK" /></a>&nbsp;<a href="#experience"><img src="assets/navigation/experience.svg" width="102" height="24" alt="EXPERIENCE" /></a>&nbsp;<a href="#tech-stack"><img src="assets/navigation/tech-stack.svg" width="66" height="24" alt="STACK" /></a>
+</p></td>
+</tr></table>
 
 <p align="center" class="hero-identity"><picture><source media="(max-width: 600px)" srcset="assets/hero-identity-mobile.png" /><img src="assets/hero-identity-4k.png" width="960" alt="AJITH KUMAR BALASUBRAMANIAN. Platform Engineer, SRE, MLOps and AI." /></picture></p>
 
